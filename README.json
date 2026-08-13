@@ -1,0 +1,1965 @@
+{
+  "items": [
+    {
+      "description": "Taxonomy: Multimodal learning, which aims to understand and analyze information from multiple modalities, has achieved substantial progress in the supervised regime in recent years. However, the heavy dependence on data paired with expensive human annotations impedes scaling up models. Meanwhile, given the availability of large-scale unannotated data in the wild, self-supervised learning has become an attractive strategy to alleviate the annotation bottleneck. Building on these two directions, self-supervised multimodal learning (SSML) provides ways to learn from raw multimodal data. In this survey, we provide a comprehensive review of the state-of-the-art in SSML, in which we elucidate three major challenges intrinsic to self-supervised learning with multimodal data: (1) learning representations from multimodal data without labels, (2) fusion of different modalities, and (3) learning with unaligned data. We then detail existing solutions to these challenges. Specifically, we consider (1) objectives for learning from multimodal unlabeled data via self-supervision, (2) model architectures from the perspective of different multimodal fusion strategies, and (3) pair-free learning strategies for coarse-grained and fine-grained alignment.\nLearning Paradigms: An example illustrating the self-supervised vision and language pretraining prior to downstream supervised learning for visual question answering is shown below. (a) supervised multimodal learning, and (b) self-supervised multimodal learning: Top, self-supervised pretraining without manual annotations; Bottom, supervised fine-tuning or linear readout for downstream tasks.",
+      "items": [],
+      "title": "Overview"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Objectives"
+    },
+    {
+      "description": "In the context of multimodal learning, instance discrimination often aims to determine whether samples from two input modalities are from the same instance, i.e., paired. By doing so, it attempts to align the representation space of the paired modalities while pushing the representation space of different instance pairs further apart. There are two types of instance discrimination objectives: contrastive and matching prediction, depending on how the input is sampled.",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Self-supervised multimodal versatile networks.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeurIPS 2020 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-06-17T13:51:27Z",
+                "owner": "google-deepmind",
+                "repo": "deepmind-research",
+                "stars": 15149
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "End-to-end learning of visual representations from uncurated instructional videos.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CVPR 2020 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-07-05T20:59:22Z",
+                "owner": "antoine77340",
+                "repo": "MIL-NCE_HowTo100M",
+                "stars": 221
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Contrastive Multiview Coding.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ECCV 2019 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-11-10T07:33:17Z",
+                "owner": "HobbitLong",
+                "repo": "CMC",
+                "stars": 1340
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Audioclip: Extending Clip to Image, Text and Audio.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICASSP 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-09-30T07:32:24Z",
+                "owner": "AndreyGuzhov",
+                "repo": "AudioCLIP",
+                "stars": 873
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EMNLP 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-11-24T06:24:14Z",
+                "owner": "ZrrSkywalker",
+                "repo": "PointCLIP",
+                "stars": 410
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Neurocomputing 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-04-12T14:37:10Z",
+                "owner": "ArrowLuo",
+                "repo": "CLIP4Clip",
+                "stars": 1030
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PointCLIP: Point Cloud Understanding by CLIP.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CVPR 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-11-24T06:24:14Z",
+                "owner": "ZrrSkywalker",
+                "repo": "PointCLIP",
+                "stars": 410
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Image-and-Language Understanding from Pixels Only.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "arXiv 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-05-19T13:55:52Z",
+                "owner": "google-research",
+                "repo": "big_vision",
+                "stars": 3513
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "COOKIE: Contrastive Cross-Modal Knowledge Sharing Pre-training for Vision-Language Representation.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICCV 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2021-10-10T12:38:33Z",
+                "owner": "kywen1119",
+                "repo": "COOKIE",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Slip: Self-supervision meets language-image pre-training.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ECCV 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2023-02-09T10:23:37Z",
+                "owner": "facebookresearch",
+                "repo": "SLIP",
+                "stars": 791
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Crossclr: Cross-modal contrastive learning for multi-modal video representations.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICCV 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-02-07T06:54:45Z",
+                "owner": "amazon-science",
+                "repo": "crossmodal-contrastive-learning",
+                "stars": 61
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CVPR 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-04-27T01:16:04Z",
+                "owner": "MohamedAfham",
+                "repo": "CrossPoint",
+                "stars": 266
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Vatt: Transformers for multimodal self-supervised learning from raw video, audio and text.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeurIPS 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-12T12:20:59Z",
+                "owner": "google-research",
+                "repo": "google-research",
+                "stars": 38526
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Learning representations from audio-visual spatial alignment.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeurIPS 2020 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2022-06-14T13:56:17Z",
+                "owner": "pedro-morgado",
+                "repo": "AVSpatialAlignment",
+                "stars": 31
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Sound Localization by Self-Supervised Time Delay Estimation.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ECCV 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-03-15T17:06:25Z",
+                "owner": "IFICL",
+                "repo": "stereocrw",
+                "stars": 30
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unified visual-semantic embeddings: Bridging vision and language with structured meaning representations.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CVPR 2019 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-01-23T08:32:20Z",
+                "owner": "vacancy",
+                "repo": "SceneGraphParser",
+                "stars": 595
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Fine-Grained Action Retrieval Through Multiple Parts-of-Speech Embeddings.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICCV 2019 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-02-16T11:29:39Z",
+                "owner": "mwray",
+                "repo": "Joint-Part-of-Speech-Embeddings",
+                "stars": 14
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Audio-Visual Instance Discrimination with Cross-Modal Agreement.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CVPR 2020 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2021-08-13T12:18:49Z",
+                "owner": "facebookresearch",
+                "repo": "AVID-CMA",
+                "stars": 133
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Audio-Visual Scene Analysis with Self-Supervised Multisensory Features.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ECCV 2018 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-07-17T06:57:17Z",
+                "owner": "andrewowens",
+                "repo": "multisensory",
+                "stars": 225
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "The Sound of Pixels.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ECCV 2018 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-04-25T06:26:41Z",
+                "owner": "hangzhaomit",
+                "repo": "Sound-of-Pixels",
+                "stars": 393
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Instance Discrimination"
+    },
+    {
+      "description": "Clustering methods assume that applying end-to-end trained clustering will lead to the grouping of the data by semantically salient characteristics. In practice, these methods iteratively predict the cluster assignments of the encoded representation, and use these predictions, also known as pseudo labels, as supervision signals to update the feature representation. Multimodal clustering provides the opportunity to learn multimodal representations and also improve conventional clustering by using each modality’s pseudolabels to supervise the other.",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Labelling unlabelled videos from scratch with multi-modal self-supervision.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeurIPS 2020 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2021-04-26T22:12:59Z",
+                "owner": "facebookresearch",
+                "repo": "selavi",
+                "stars": 118
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICLR 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2023-12-07T00:17:57Z",
+                "owner": "facebookresearch",
+                "repo": "av_hubert",
+                "stars": 996
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "u-HuBERT: Unified Mixed-Modal Speech Pretraining And Zero-Shot Transfer to Unlabeled Modality.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeurIPS 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2023-12-07T00:17:57Z",
+                "owner": "facebookresearch",
+                "repo": "av_hubert",
+                "stars": 996
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Deep Multimodal Clustering for Unsupervised Audiovisual Learning.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CVPR 2018 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-05-27T04:38:01Z",
+                "owner": "DTaoo",
+                "repo": "DMC",
+                "stars": 15
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Self-labelling via simultaneous clustering and representation learning.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICLR 2020 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-07-25T10:49:30Z",
+                "owner": "yukimasano",
+                "repo": "self-label",
+                "stars": 546
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Clustering"
+    },
+    {
+      "description": "The masked prediction task can be either performed in an auto-encoding (similar to BERT) or an auto-regressive approach (similar to GPT).",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "VATLM: Visual-Audio-Text Pre-Training with Unified Masked Prediction for Speech Representation Learning.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "arXiv 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-04-24T05:27:36Z",
+                "owner": "microsoft",
+                "repo": "SpeechT5",
+                "stars": 1450
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CTAL: Pre-training Cross-modal Transformer for Audio-and-Language Representations.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EMNLP 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-04-20T07:37:01Z",
+                "owner": "Ydkwim",
+                "repo": "CTAL",
+                "stars": 39
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Jointly Learning Visual and Auditory Speech Representations from Raw Data.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICLR 2023 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-02-27T00:06:14Z",
+                "owner": "ahaliassos",
+                "repo": "raven",
+                "stars": 82
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "arXiv 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-23T04:09:35Z",
+                "owner": "microsoft",
+                "repo": "unilm",
+                "stars": 22186
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SimVLM: Simple Visual Language Model Pretraining with Weak Supervision.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICLR 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-11-07T04:22:06Z",
+                "owner": "YulongBonjour",
+                "repo": "SimVLM",
+                "stars": 36
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "VideoBERT: A Joint Model for Video and Language Representation Learning.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICCV 2019 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-05-10T07:51:00Z",
+                "owner": "ammesatyajit",
+                "repo": "VideoBERT",
+                "stars": 135
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICLR 2023 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-12-18T22:01:21Z",
+                "owner": "allenai",
+                "repo": "unified-io-inference",
+                "stars": 231
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "VL-BEiT: Generative Vision-Language Pretraining.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "arXiv 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-23T04:09:35Z",
+                "owner": "microsoft",
+                "repo": "unilm",
+                "stars": 22186
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "OPT: Omni-Perception Pre-Trainer for Cross-Modal Understanding and Generation.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "arXiv 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-07-17T12:52:03Z",
+                "owner": "mindspore-ai",
+                "repo": "models",
+                "stars": 366
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Deep Bidirectional Language-Knowledge Graph Pretraining.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeurIPS 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-05-10T15:53:32Z",
+                "owner": "michiyasunaga",
+                "repo": "dragon",
+                "stars": 333
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ERNIE: Enhanced Language Representation with Informative Entities.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ACL 2019 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-01-10T11:53:50Z",
+                "owner": "thunlp",
+                "repo": "ERNIE",
+                "stars": 1417
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "VLM: Task-agnostic Video-Language Model Pre-training for Video Understanding.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ACL 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2025-09-30T11:16:06Z",
+                "owner": "facebookresearch",
+                "repo": "fairseq",
+                "stars": 32241
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unsupervised Vision-and-Language Pre-training Without Parallel Images and Captions.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NAACL 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-05-01T20:51:04Z",
+                "owner": "uclanlp",
+                "repo": "visualbert",
+                "stars": 542
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Masked Prediction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Align before Fuse: Vision and Language Representation Learning with Momentum Distillation.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeurIPS 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2022-09-20T04:57:34Z",
+                "owner": "salesforce",
+                "repo": "ALBEF",
+                "stars": 1756
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DM2C: Deep Mixed-Modal Clustering.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeurIPS 2019 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-12-07T11:07:54Z",
+                "owner": "jiangyangby",
+                "repo": "DM2C",
+                "stars": 12
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ECCV 2020 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2023-08-28T01:34:59Z",
+                "owner": "microsoft",
+                "repo": "Oscar",
+                "stars": 1053
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Hero: Hierarchical Encoder for Video+Language Omni-representation Pre-training.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EMNLP 2020 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-09-16T20:50:12Z",
+                "owner": "linjieli222",
+                "repo": "HERO",
+                "stars": 235
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "arXiv 2020 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2024-07-25T11:07:33Z",
+                "owner": "microsoft",
+                "repo": "UniVL",
+                "stars": 365
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ActBERT: Learning Global-Local Video-Text Representations.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CVPR 2020 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-02-12T06:53:52Z",
+                "owner": "PaddlePaddle",
+                "repo": "PaddleVideo",
+                "stars": 1703
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MERLOT RESERVE: Neural Script Knowledge through Vision and Language and Sound.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CVPR 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-06-01T18:21:15Z",
+                "owner": "rowanz",
+                "repo": "merlot_reserve",
+                "stars": 146
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICML 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-03-03T12:43:12Z",
+                "owner": "salesforce",
+                "repo": "BLIP",
+                "stars": 5720
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICML 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-04-03T02:07:24Z",
+                "owner": "dandelin",
+                "repo": "ViLT",
+                "stars": 1538
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "UNITER: UNiversal Image-TExt Representation Learning.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ECCV 2019 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-06-30T21:46:55Z",
+                "owner": "ChenRocks",
+                "repo": "UNITER",
+                "stars": 799
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeurIPS 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-23T04:09:35Z",
+                "owner": "microsoft",
+                "repo": "unilm",
+                "stars": 22186
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "FLAVA: A Foundational Language And Vision Alignment Model.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CVPR 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-10T15:05:26Z",
+                "owner": "facebookresearch",
+                "repo": "multimodal",
+                "stars": 1730
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeurIPS 2019 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-02-16T04:47:38Z",
+                "owner": "facebookresearch",
+                "repo": "vilbert-multi-task",
+                "stars": 823
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unsupervised Vision-and-Language Pretraining via Retrieval-based Multi-Granular Alignment.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CVPR 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-04-15T02:49:33Z",
+                "owner": "zmykevin",
+                "repo": "UVLP",
+                "stars": 21
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unimo: Towards unified-modal understanding and generation via cross-modal contrastive learning.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ACL 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-08-16T02:42:22Z",
+                "owner": "PaddlePaddle",
+                "repo": "Research",
+                "stars": 1761
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TACL 2020 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-05-30T22:43:20Z",
+                "owner": "e-bug",
+                "repo": "mpre-unmasked",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Multimodal Clustering Networks for Self-supervised Learning from Unlabeled Videos.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICCV 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-05-11T21:13:07Z",
+                "owner": "brian7685",
+                "repo": "Multimodal-Clustering-Network",
+                "stars": 34
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Self-Supervised Learning of Audio-Visual Objects from Video.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ECCV 2020 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-11-16T07:41:22Z",
+                "owner": "afourast",
+                "repo": "avobjects",
+                "stars": 114
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Coot: Cooperative hierarchical transformer for video-text representation learning.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeurIPS 2020 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-09-06T15:05:29Z",
+                "owner": "simon-ging",
+                "repo": "coot-videotext",
+                "stars": 291
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unpaired Image Captioning via Scene Graph Alignments.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICCV 2019 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "OpenEdge ABL",
+                "last_commit": "2021-03-25T22:55:52Z",
+                "owner": "gujiuxiang",
+                "repo": "unpaired_image_captioning",
+                "stars": 36
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Hybrid"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Action-Conditional Video Prediction using Deep Networks in Atari Games",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeurIPS 2015 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2016-02-08T17:17:47Z",
+                "owner": "junhyukoh",
+                "repo": "nips2015-action-conditional-video-prediction",
+                "stars": 114
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Recurrent World Models Facilitate Policy Evolution",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeurIPS 2018 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-09-15T13:50:33Z",
+                "owner": "hardmaru",
+                "repo": "WorldModelsExperiments",
+                "stars": 730
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Learning latent dynamics for planning from pixels",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICML 2019 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2023-03-24T21:57:54Z",
+                "owner": "google-research",
+                "repo": "planet",
+                "stars": 1260
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Learning Predictive Representations for Deformable Objects Using Contrastive Estimation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CoRL 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-10-03T21:46:57Z",
+                "owner": "wilson1yan",
+                "repo": "contrastive-forward-model",
+                "stars": 32
+              }
+            }
+          ]
+        }
+      ],
+      "title": "State Representation Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "MedCLIP: Contrastive Learning from Unpaired Medical Images and Text.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EMNLP 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-04-12T13:08:17Z",
+                "owner": "RyanWangZf",
+                "repo": "MedCLIP",
+                "stars": 698
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ContIG: Self-supervised multimodal contrastive learning for medical imaging with genetics.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CVPR 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-07-07T12:10:38Z",
+                "owner": "HealthML",
+                "repo": "ContIG",
+                "stars": 57
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CoMIR: Contrastive multimodal image representation for registration.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeurIPS 2020 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-11-18T22:55:10Z",
+                "owner": "MIDA-group",
+                "repo": "CoMIR",
+                "stars": 87
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Contrastive learning of medical visual representations from paired images and text.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "arXiv 2020 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-08-04T05:53:19Z",
+                "owner": "edreisMD",
+                "repo": "ConVIRT-pytorch",
+                "stars": 155
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GLoRIA: A Multimodal Global-Local Representation Learning Framework for Label-efficient Medical Image Recognition.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICCV 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-02-06T04:20:24Z",
+                "owner": "marshuang80",
+                "repo": "gloria",
+                "stars": 244
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nature Biomedical Engineering 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-08-28T01:50:11Z",
+                "owner": "rajpurkarlab",
+                "repo": "CheXzero",
+                "stars": 235
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nature Machine Intelligence 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-08-17T02:10:27Z",
+                "owner": "funnyzhou",
+                "repo": "REFERS",
+                "stars": 112
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Healthcare"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Multimodal remote sensing benchmark datasets for land cover classification with a shared and specific feature learning model.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ISPRS Journal of Photogrammetry and Remote Sensing 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "MATLAB",
+                "last_commit": "2024-12-28T15:23:47Z",
+                "owner": "danfenghong",
+                "repo": "ISPRS_S2FL",
+                "stars": 129
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Self-Supervised Change Detection in Multiview Remote Sensing Images.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IEEE Transactions on Geoscience and Remote Sensing 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-05-12T13:11:01Z",
+                "owner": "Yusin2Chen",
+                "repo": "self-supervised_change_detetction",
+                "stars": 31
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Self-supervised Audiovisual Representation Learning for Remote Sensing Data.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Int. J. Appl. Earth Obs. Geoinformation 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-05-22T07:44:38Z",
+                "owner": "khdlr",
+                "repo": "SoundingEarth",
+                "stars": 34
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Remote Sensing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Unsupervised Machine Translation Using Monolingual Corpora Only.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICLR 2018 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-06-12T00:30:51Z",
+                "owner": "sobamchan",
+                "repo": "unsupervised-machine-translation-using-monolingual-corpora-only-pytorch",
+                "stars": 7
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Visual Grounding in Video for Unsupervised Word Translation.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CVPR 2020 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2020-04-26T21:15:30Z",
+                "owner": "gsig",
+                "repo": "visual-grounding",
+                "stars": 43
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Machine Translation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Image-to-Lidar Self-Supervised Distillation for Autonomous Driving Data.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CVPR 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-03-07T09:39:35Z",
+                "owner": "valeoai",
+                "repo": "SLidR",
+                "stars": 213
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Advancing Self-supervised Monocular Depth Learning with Sparse LiDAR.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CoRL 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-07-29T00:58:26Z",
+                "owner": "AutoAILab",
+                "repo": "FusionDepth",
+                "stars": 95
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unsupervised Learning of Depth, Optical Flow and Pose with Occlusion from 3D Geometry.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "T-ITS 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-12-04T14:10:49Z",
+                "owner": "guangmingw",
+                "repo": "DOPlearning",
+                "stars": 80
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Auto-driving"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Challenges"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Contrastive Vision-Language Pre-training with Limited Resources.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ECCV 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-09-29T15:43:35Z",
+                "owner": "zerovl",
+                "repo": "ZeroVL",
+                "stars": 46
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Beyond neural scaling laws: beating power law scaling via data pruning.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeurIPS 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-30T12:22:21Z",
+                "owner": "naotoo1",
+                "repo": "Beyond-Neural-Scaling",
+                "stars": 35
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICLR 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-09-19T03:50:23Z",
+                "owner": "Sense-GVT",
+                "repo": "DeCLIP",
+                "stars": 677
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "When and why Vision-Language Models behave like Bags-of-Words, and what to do about it?.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICLR 2023 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-06-07T04:12:23Z",
+                "owner": "mertyg",
+                "repo": "vision-language-models-are-bows",
+                "stars": 295
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeurIPS 2019 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-04-29T17:42:13Z",
+                "owner": "hendrycks",
+                "repo": "ss-ood",
+                "stars": 269
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Badencoder: Backdoor attacks to pre-trained encoders in self-supervised learning.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2022 IEEE Symposium on Security and Privacy (SP) 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-08-03T02:22:35Z",
+                "owner": "jinyuan-jia",
+                "repo": "BadEncoder",
+                "stars": 85
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Are Multimodal Models Robust to Image and Text Perturbations?.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "arXiv 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2023-01-12T04:04:38Z",
+                "owner": "amazon-science",
+                "repo": "multimodal-robustness",
+                "stars": 9
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeurIPS 2022 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-09-26T01:20:41Z",
+                "owner": "Weixin-Liang",
+                "repo": "Modality-Gap",
+                "stars": 177
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TACL 2021 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-01-24T16:42:51Z",
+                "owner": "google-deepmind",
+                "repo": "multimodal_transformers",
+                "stars": 67
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "What makes for good views for contrastive learning?.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeurIPS 2020 [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-10-04T01:06:20Z",
+                "owner": "HobbitLong",
+                "repo": "PyContrast",
+                "stars": 1993
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Robustness/Fairness"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Summary of Common Multimodal Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image-Text Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image-Text-Audio Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video-Text Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video-Audio Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Point Cloud Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image-Ridar Datasets"
+    },
+    {
+      "description": "PR welcome using the following markdown format:",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:13:59.057Z",
+    "original_repository": "ys-zong/awesome-self-supervised-multimodal-learning",
+    "original_repository_sha": "06853f99a894b18db3bee0536a7952f49e1e22ee",
+    "enhanced_repository": "enhansome/enhansome-self-supervised-multimodal-learning",
+    "enhanced_repository_description": null,
+    "title": "Awesome-self-supervised-multimodal-learning with stars"
+  }
+}
