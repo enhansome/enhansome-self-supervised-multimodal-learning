@@ -29,7 +29,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15151
+                "stars": 15152
               }
             }
           ]
@@ -134,7 +134,7 @@
                 "last_commit": "2024-04-12T14:37:10Z",
                 "owner": "ArrowLuo",
                 "repo": "CLIP4Clip",
-                "stars": 1030
+                "stars": 1029
               }
             }
           ]
@@ -176,7 +176,7 @@
                 "last_commit": "2025-05-19T13:55:52Z",
                 "owner": "google-research",
                 "repo": "big_vision",
-                "stars": 3514
+                "stars": 3515
               }
             }
           ]
@@ -278,7 +278,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-13T19:06:46Z",
+                "last_commit": "2026-08-14T22:49:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
                 "stars": 38531
@@ -344,7 +344,7 @@
                 "last_commit": "2024-01-23T08:32:20Z",
                 "owner": "vacancy",
                 "repo": "SceneGraphParser",
-                "stars": 595
+                "stars": 594
               }
             }
           ]
@@ -629,7 +629,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22186
+                "stars": 22188
               }
             }
           ]
@@ -713,7 +713,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22186
+                "stars": 22188
               }
             }
           ]
@@ -734,7 +734,7 @@
                 "last_commit": "2023-07-17T12:52:03Z",
                 "owner": "mindspore-ai",
                 "repo": "models",
-                "stars": 366
+                "stars": 367
               }
             }
           ]
@@ -755,7 +755,7 @@
                 "last_commit": "2023-05-10T15:53:32Z",
                 "owner": "michiyasunaga",
                 "repo": "dragon",
-                "stars": 333
+                "stars": 332
               }
             }
           ]
@@ -797,7 +797,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32242
+                "stars": 32240
               }
             }
           ]
@@ -845,7 +845,7 @@
                 "last_commit": "2022-09-20T04:57:34Z",
                 "owner": "salesforce",
                 "repo": "ALBEF",
-                "stars": 1756
+                "stars": 1755
               }
             }
           ]
@@ -950,7 +950,7 @@
                 "last_commit": "2025-02-12T06:53:52Z",
                 "owner": "PaddlePaddle",
                 "repo": "PaddleVideo",
-                "stars": 1703
+                "stars": 1702
               }
             }
           ]
@@ -992,7 +992,7 @@
                 "last_commit": "2026-03-03T12:43:12Z",
                 "owner": "salesforce",
                 "repo": "BLIP",
-                "stars": 5720
+                "stars": 5718
               }
             }
           ]
@@ -1013,7 +1013,7 @@
                 "last_commit": "2024-04-03T02:07:24Z",
                 "owner": "dandelin",
                 "repo": "ViLT",
-                "stars": 1538
+                "stars": 1537
               }
             }
           ]
@@ -1055,7 +1055,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22186
+                "stars": 22188
               }
             }
           ]
@@ -1297,7 +1297,7 @@
                 "last_commit": "2022-09-15T13:50:33Z",
                 "owner": "hardmaru",
                 "repo": "WorldModelsExperiments",
-                "stars": 730
+                "stars": 731
               }
             }
           ]
@@ -1955,7 +1955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T00:43:24.735Z",
+    "last_updated": "2026-08-14T23:59:31.327Z",
     "original_repository": "ys-zong/awesome-self-supervised-multimodal-learning",
     "original_repository_sha": "06853f99a894b18db3bee0536a7952f49e1e22ee",
     "enhanced_repository": "enhansome/enhansome-self-supervised-multimodal-learning",
