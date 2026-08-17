@@ -29,7 +29,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15156
+                "stars": 15158
               }
             }
           ]
@@ -281,7 +281,7 @@
                 "last_commit": "2026-08-16T18:45:46Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38550
+                "stars": 38568
               }
             }
           ]
@@ -629,7 +629,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22190
+                "stars": 22189
               }
             }
           ]
@@ -713,7 +713,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22190
+                "stars": 22189
               }
             }
           ]
@@ -797,7 +797,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32238
+                "stars": 32236
               }
             }
           ]
@@ -1055,7 +1055,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22190
+                "stars": 22189
               }
             }
           ]
@@ -1073,7 +1073,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-10T15:05:26Z",
+                "last_commit": "2026-08-17T15:05:57Z",
                 "owner": "facebookresearch",
                 "repo": "multimodal",
                 "stars": 1730
@@ -1366,7 +1366,7 @@
                 "last_commit": "2024-04-12T13:08:17Z",
                 "owner": "RyanWangZf",
                 "repo": "MedCLIP",
-                "stars": 698
+                "stars": 697
               }
             }
           ]
@@ -1955,7 +1955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:56:31.235Z",
+    "last_updated": "2026-08-17T23:58:18.123Z",
     "original_repository": "ys-zong/awesome-self-supervised-multimodal-learning",
     "original_repository_sha": "06853f99a894b18db3bee0536a7952f49e1e22ee",
     "enhanced_repository": "enhansome/enhansome-self-supervised-multimodal-learning",
