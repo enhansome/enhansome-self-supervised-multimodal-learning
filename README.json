@@ -29,7 +29,7 @@
                 "last_commit": "2026-06-17T13:51:27Z",
                 "owner": "google-deepmind",
                 "repo": "deepmind-research",
-                "stars": 15158
+                "stars": 15157
               }
             }
           ]
@@ -176,7 +176,7 @@
                 "last_commit": "2025-05-19T13:55:52Z",
                 "owner": "google-research",
                 "repo": "big_vision",
-                "stars": 3517
+                "stars": 3518
               }
             }
           ]
@@ -281,7 +281,7 @@
                 "last_commit": "2026-08-16T18:45:46Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38568
+                "stars": 38577
               }
             }
           ]
@@ -629,7 +629,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22189
+                "stars": 22190
               }
             }
           ]
@@ -713,7 +713,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22189
+                "stars": 22190
               }
             }
           ]
@@ -929,7 +929,7 @@
                 "last_commit": "2024-07-25T11:07:33Z",
                 "owner": "microsoft",
                 "repo": "UniVL",
-                "stars": 365
+                "stars": 364
               }
             }
           ]
@@ -1055,7 +1055,7 @@
                 "last_commit": "2026-01-23T04:09:35Z",
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22189
+                "stars": 22190
               }
             }
           ]
@@ -1076,7 +1076,7 @@
                 "last_commit": "2026-08-17T15:05:57Z",
                 "owner": "facebookresearch",
                 "repo": "multimodal",
-                "stars": 1730
+                "stars": 1731
               }
             }
           ]
@@ -1471,7 +1471,7 @@
                 "last_commit": "2023-08-28T01:50:11Z",
                 "owner": "rajpurkarlab",
                 "repo": "CheXzero",
-                "stars": 237
+                "stars": 2
               }
             }
           ]
@@ -1955,7 +1955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:58:18.123Z",
+    "last_updated": "2026-08-18T23:58:14.879Z",
     "original_repository": "ys-zong/awesome-self-supervised-multimodal-learning",
     "original_repository_sha": "06853f99a894b18db3bee0536a7952f49e1e22ee",
     "enhanced_repository": "enhansome/enhansome-self-supervised-multimodal-learning",

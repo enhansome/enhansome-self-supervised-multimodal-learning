@@ -93,7 +93,7 @@ In the context of multimodal learning, instance discrimination often aims to det
   * *ICML 2021* [\[paper\]](http://arxiv.org/abs/2103.00020v1)
 
 * Self-supervised multimodal versatile networks.
-  * *NeurIPS 2020* [\[paper\]](http://arxiv.org/abs/2006.16228v2) [\[code\]](https://github.com/deepmind/deepmind-research/tree/master/mmv) ⭐ 15,158 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17
+  * *NeurIPS 2020* [\[paper\]](http://arxiv.org/abs/2006.16228v2) [\[code\]](https://github.com/deepmind/deepmind-research/tree/master/mmv) ⭐ 15,157 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17
 
 * End-to-end learning of visual representations from uncurated instructional videos.
   * *CVPR 2020* [\[paper\]](http://arxiv.org/abs/1912.06430v4) [\[code\]](https://github.com/antoine77340/MIL-NCE_HowTo100M) ⭐ 221 | 🐛 8 | 🌐 Python | 📅 2022-07-05
@@ -117,7 +117,7 @@ In the context of multimodal learning, instance discrimination often aims to det
   * *CVPR 2021* [\[paper\]](http://arxiv.org/abs/2112.02413v1) [\[code\]](https://github.com/ZrrSkywalker/PointCLIP) ⭐ 411 | 🐛 12 | 🌐 Python | 📅 2022-11-24
 
 * Image-and-Language Understanding from Pixels Only.
-  * *arXiv 2022* [\[paper\]](https://arxiv.org/abs/2212.08045) [\[code\]](https://github.com/google-research/big_vision) ⭐ 3,517 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2025-05-19
+  * *arXiv 2022* [\[paper\]](https://arxiv.org/abs/2212.08045) [\[code\]](https://github.com/google-research/big_vision) ⭐ 3,518 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2025-05-19
 
 * Scaling Language-Image Pre-training via Masking.
   * *arXiv 2022* [\[paper\]](https://arxiv.org/abs/2212.00794)
@@ -138,7 +138,7 @@ In the context of multimodal learning, instance discrimination often aims to det
   * *ECCV 2018* [\[paper\]](http://arxiv.org/abs/1805.00833v2)
 
 * Vatt: Transformers for multimodal self-supervised learning from raw video, audio and text.
-  * *NeurIPS 2021* [\[paper\]](http://arxiv.org/abs/2104.11178v3) [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,568 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16
+  * *NeurIPS 2021* [\[paper\]](http://arxiv.org/abs/2104.11178v3) [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,577 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16
 
 * Learning Video Representations using Contrastive Bidirectional Transformer.
   * *arXiv* [\[paper\]](http://arxiv.org/abs/1906.05743v2)
@@ -234,7 +234,7 @@ approach (similar to GPT).
   * *ICLR 2023* [\[paper\]](https://arxiv.org/abs/2212.06246) [\[code\]](https://github.com/ahaliassos/raven) ⭐ 82 | 🐛 5 | 🌐 Python | 📅 2025-02-27
 
 * Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks.
-  * *arXiv 2022* [\[paper\]](http://arxiv.org/abs/2208.10442v2) [\[code\]](https://github.com/microsoft/unilm/tree/master/beit3) ⭐ 22,189 | 🐛 684 | 🌐 Python | 📅 2026-01-23
+  * *arXiv 2022* [\[paper\]](http://arxiv.org/abs/2208.10442v2) [\[code\]](https://github.com/microsoft/unilm/tree/master/beit3) ⭐ 22,190 | 🐛 683 | 🌐 Python | 📅 2026-01-23
 
 * SimVLM: Simple Visual Language Model Pretraining with Weak Supervision.
   * *ICLR 2022* [\[paper\]](http://arxiv.org/abs/2108.10904v3) [\[code\]](https://github.com/YulongBonjour/SimVLM) ⭐ 36 | 🐛 6 | 🌐 Python | 📅 2022-11-07
@@ -246,7 +246,7 @@ approach (similar to GPT).
   * *ICLR 2023* [\[paper\]](http://arxiv.org/abs/2206.08916v2) [\[code\]](https://github.com/allenai/unified-io-inference) ⭐ 231 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2023-12-18
 
 * VL-BEiT: Generative Vision-Language Pretraining.
-  * *arXiv 2022* [\[paper\]](https://arxiv.org/abs/2206.01127) [\[code\]](https://github.com/microsoft/unilm/tree/master/vl-beit) ⭐ 22,189 | 🐛 684 | 🌐 Python | 📅 2026-01-23
+  * *arXiv 2022* [\[paper\]](https://arxiv.org/abs/2206.01127) [\[code\]](https://github.com/microsoft/unilm/tree/master/vl-beit) ⭐ 22,190 | 🐛 683 | 🌐 Python | 📅 2026-01-23
 
 * OPT: Omni-Perception Pre-Trainer for Cross-Modal Understanding and Generation.
   * *arXiv 2021* [\[paper\]](https://arxiv.org/abs/2107.00249) [\[code\]](https://github.com/mindspore-ai/models/tree/master/research/mm/opt) ⭐ 367 | 🐛 17 | 🌐 Python | 📅 2023-07-17
@@ -299,10 +299,10 @@ approach (similar to GPT).
   * *ECCV 2019* [\[paper\]](https://arxiv.org/abs/1909.11740) [\[code\]](https://github.com/ChenRocks/UNITER) ⭐ 799 | 🐛 46 | 🌐 Python | 📅 2021-06-30
 
 * VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts.
-  * *NeurIPS 2022* [\[paper\]](https://arxiv.org/abs/2111.02358) [\[code\]](https://github.com/microsoft/unilm/tree/master/vlmo) ⭐ 22,189 | 🐛 684 | 🌐 Python | 📅 2026-01-23
+  * *NeurIPS 2022* [\[paper\]](https://arxiv.org/abs/2111.02358) [\[code\]](https://github.com/microsoft/unilm/tree/master/vlmo) ⭐ 22,190 | 🐛 683 | 🌐 Python | 📅 2026-01-23
 
 * FLAVA: A Foundational Language And Vision Alignment Model.
-  * *CVPR 2021* [\[paper\]](http://arxiv.org/abs/2112.04482v3) [\[code\]](https://github.com/facebookresearch/multimodal/tree/main/examples/flava) ⭐ 1,730 | 🐛 47 | 🌐 Python | 📅 2026-08-17
+  * *CVPR 2021* [\[paper\]](http://arxiv.org/abs/2112.04482v3) [\[code\]](https://github.com/facebookresearch/multimodal/tree/main/examples/flava) ⭐ 1,731 | 🐛 47 | 🌐 Python | 📅 2026-08-17
 
 * Vlmixer: Unpaired vision-language pre-training via cross-modal cutmix.
   * *ICML 2022* [\[paper\]](http://arxiv.org/abs/2206.08919v1)
@@ -383,7 +383,7 @@ approach (similar to GPT).
   * *ICCV 2021* [\[paper\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_GLoRIA_A_Multimodal_Global-Local_Representation_Learning_Framework_for_Label-Efficient_Medical_ICCV_2021_paper.pdf) [\[code\]](https://github.com/marshuang80/gloria) ⭐ 245 | 🐛 12 | 🌐 Python | 📅 2023-02-06
 
 * Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning.
-  * *Nature Biomedical Engineering 2022* [\[paper\]](https://www.nature.com/articles/s41551-022-00936-9) [\[code\]](https://github.com/rajpurkarlab/CheXzero) ⭐ 237 | 🐛 7 | 🌐 Python | 📅 2023-08-28
+  * *Nature Biomedical Engineering 2022* [\[paper\]](https://www.nature.com/articles/s41551-022-00936-9) [\[code\]](https://github.com/rajpurkarlab/CheXzero) ⭐ 2 | 🐛 7 | 🌐 Python | 📅 2023-08-28
 
 * Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports.
   * *Nature Machine Intelligence 2022* [\[paper\]](https://www.nature.com/articles/s42256-021-00425-9) [\[code\]](https://github.com/funnyzhou/REFERS) ⭐ 112 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2022-08-17
@@ -538,13 +538,13 @@ approach (similar to GPT).
 | **NUS-WIDE-10K**           | 10K                                                                                                              | 10K                            | Natural images   | image captioning, image-text retrieval            | [Link](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html)                                        | -                                                                                                                   |
 | **Yelp**                   | 200,100                                                                                                          | 6,990,280                      | product review   | summarization                                     | [Link](https://www.yelp.com/dataset)                                                                                              | -                                                                                                                   |
 | **VQA v2.0**               | 204,721                                                                                                          | 1105904/11,059,040 (Q/A)       | Natural images   | VQA                                               | [Link](https://visualqa.org/)                                                                                                     | -                                                                                                                   |
-| **ImageCLEF 2019 VQA-Med** | 3825                                                                                                             | 3825                           | Medicine         | VQA                                               | [Link](https://www.aicrowd.com/challenges/imageclef-2019-vqa-med)                                                                 | [Github](https://github.com/abachaa/VQA-Med-2019) ⭐ 95 \| 🐛 0 \| 📅 2026-05-13                                     |
+| **ImageCLEF 2019 VQA-Med** | 3825                                                                                                             | 3825                           | Medicine         | VQA                                               | [Link](https://www.aicrowd.com/challenges/imageclef-2019-vqa-med)                                                                 | [Github](https://github.com/abachaa/VQA-Med-2019) ⭐ 93 \| 🐛 0 \| 📅 2026-05-13                                     |
 | **VCR**                    | 110k                                                                                                             | 290k/290k/290k (Q/A/Rationale) | natural          | visual commonsense reasoning (VCR)                | [Link](https://visualcommonsense.com/)                                                                                            | [Github](https://github.com/rowanz/r2c) ⭐ 469 \| 🐛 19 \| 🌐 Python \| 📅 2021-05-06                                |
 | **GD-VCR**                 | 328                                                                                                              | 886/886(Q/A)                   | Geo-Diverse      | visual commonsense reasoning (VCR)                | [Link](https://github.com/WadeYin9712/GD-VCR) ⭐ 29 \| 🐛 0 \| 🌐 Python \| 📅 2021-09-04                                          | [Github](https://github.com/wadeyin9712/gd-vcr) ⭐ 29 \| 🐛 0 \| 🌐 Python \| 📅 2021-09-04                          |
 | **SNLI-VE**                | [Details](https://github.com/necla-ml/SNLI-VE#distribution-by-split) ⭐ 123 \| 🐛 5 \| 🌐 Python \| 📅 2022-04-21 |                                | Natural images   | Visual Entailment                                 | [Link](https://github.com/necla-ml/SNLI-VE) ⭐ 123 \| 🐛 5 \| 🌐 Python \| 📅 2022-04-21                                           | [Github](https://github.com/necla-ml/SNLI-VE) ⭐ 123 \| 🐛 5 \| 🌐 Python \| 📅 2022-04-21                           |
 | **NLVR2**                  | 107,292                                                                                                          | 107,292                        | Natural images   | natural language for visual reasoning             | [Link](https://lil.nlp.cornell.edu/nlvr/)                                                                                         | [Github](https://github.com/lil-lab/nlvr) ⭐ 270 \| 🐛 0 \| 🌐 HTML \| 📅 2022-08-18                                 |
 | **NLVR**                   | 92244                                                                                                            | 92244                          | synthetic images | natural language for visual reasoning             | [Link](https://lil.nlp.cornell.edu/nlvr/)                                                                                         | [Github](https://github.com/lil-lab/nlvr) ⭐ 270 \| 🐛 0 \| 🌐 HTML \| 📅 2022-08-18                                 |
-| **rendered SST2**          | \~1k                                                                                                             | \~1k                           | image of text    | optical character recognition (OCR)               | [Link](https://github.com/openai/CLIP/blob/main/data/rendered-sst2.md) ⭐ 34,185 \| 🐛 273 \| 🌐 Jupyter Notebook \| 📅 2026-03-25 | -                                                                                                                   |
+| **rendered SST2**          | \~1k                                                                                                             | \~1k                           | image of text    | optical character recognition (OCR)               | [Link](https://github.com/openai/CLIP/blob/main/data/rendered-sst2.md) ⭐ 34,191 \| 🐛 272 \| 🌐 Jupyter Notebook \| 📅 2026-03-25 | -                                                                                                                   |
 | **OCR-CC**                 | 1.4M                                                                                                             | 1.4M                           | Natural images   | optical character recognition (OCR)               | [Link](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-recognizing-text)                        | [Github](https://github.com/microsoft/TAP) ⭐ 72 \| 🐛 10 \| 🌐 Python \| 📅 2023-05-22                              |
 | **Hateful Memes**          | 10k+                                                                                                             | 10k+                           | memes            | optical character recognition (OCR)               | [Link](https://hatefulmemeschallenge.com/)                                                                                        | [Github](https://github.com/facebookresearch/mmf) ⭐ 5,634 \| 🐛 150 \| 🌐 Python \| 📅 2026-07-07                   |
 | **CORD**                   | 1K                                                                                                               | 1k                             | document         | OCR                                               | [Link](https://github.com/clovaai/cord) ⭐ 489 \| 🐛 4 \| 📅 2022-07-20                                                            | [Github](https://github.com/clovaai/cord) ⭐ 489 \| 🐛 4 \| 📅 2022-07-20                                            |
@@ -589,7 +589,7 @@ approach (similar to GPT).
 | **AV-Bench**   | v1 \~5k, v2 \~7k  |                 | natural           | Audio-Visual Correspondence (AVC), Audio-Visual Event Localization (AVEL) and video parsing (AVVP), Sound Source Localization (SSL), etc. | [Link](https://opennlplab.github.io/AVSBench/)                                          | [Github](https://github.com/OpenNLPLab/AVSBench) ⭐ 421 \| 🐛 4 \| 🌐 Python \| 📅 2024-11-18                                |
 | **AVE**        | 4143              |                 | natural           | temporal localization                                                                                                                     | [Link](https://sites.google.com/view/audiovisualresearch)                               | [Github](https://github.com/YapengTian/AVE-ECCV18) ⭐ 210 \| 🐛 9 \| 🌐 Python \| 📅 2021-04-03                              |
 | **360° video** | 1146              |                 | camera            | Spatial Audio generation                                                                                                                  | [Link](https://pedro-morgado.github.io/spatialaudiogen/)                                | [Github](https://github.com/pedro-morgado/spatialaudiogen) ⭐ 118 \| 🐛 4 \| 🌐 Python \| 📅 2023-03-24                      |
-| **openpose**   |                   |                 | person            | Audio-visual correspondence, music-to-video generation                                                                                    | [Link](https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/index.html) | [Github](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,372 \| 🐛 359 \| 🌐 C++ \| 📅 2024-08-03            |
+| **openpose**   |                   |                 | person            | Audio-visual correspondence, music-to-video generation                                                                                    | [Link](https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/index.html) | [Github](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,371 \| 🐛 359 \| 🌐 C++ \| 📅 2024-08-03            |
 | **LRS2**       | -                 | 144481          | person            | speech recognition, lips reading                                                                                                          | [Link](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html)                     | [Github](https://github.com/lsrock1/WLSNet_pytorch)                                                                         |
 | **LRS3**       | 9506              | 151819          | person            | speech recognition, lips reading                                                                                                          | [Link](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs3.html)                     | -                                                                                                                           |
 
@@ -606,7 +606,7 @@ approach (similar to GPT).
 | **Name**               | **# images** | **# points (M)** | **Domain**   | **Task**                  | **link**                                       | **Github**                                                                                           |
 | ---------------------- | ------------ | ---------------- | ------------ | ------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | **Eigen split KITTTI** | 7481+7518    | 1799             | auto driving | detection                 | [Link](https://www.cvlibs.net/datasets/kitti/) | -                                                                                                    |
-| **nuScenes**           |              |                  | auto driving | 3D detection and tracking | [Link](https://www.nuscenes.org/)              | [Github](https://github.com/nutonomy/nuscenes-devkit) ⭐ 2,791 \| 🐛 32 \| 🌐 Python \| 📅 2026-08-06 |
+| **nuScenes**           |              |                  | auto driving | 3D detection and tracking | [Link](https://www.nuscenes.org/)              | [Github](https://github.com/nutonomy/nuscenes-devkit) ⭐ 2,792 \| 🐛 32 \| 🌐 Python \| 📅 2026-08-06 |
 | **SemanticKITTI**      | 23201+20351  | 4549             | auto driving | segmentation              | [Link](http://www.semantic-kitti.org/)         | [Github](https://github.com/PRBonn/semantic-kitti-api) ⭐ 895 \| 🐛 2 \| 🌐 Python \| 📅 2025-04-03   |
 
 ## Contribute
@@ -620,4 +620,4 @@ PR welcome using the following markdown format:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
