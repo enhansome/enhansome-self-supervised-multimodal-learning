@@ -22,7 +22,7 @@
                     "last_commit": "2026-06-17T13:51:27Z",
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15157
+                    "stars": 15159
                   }
                 }
               ]
@@ -283,10 +283,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-16T18:45:46Z",
+                    "last_commit": "2026-08-19T20:48:11Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38579
+                    "stars": 38581
                   }
                 }
               ]
@@ -652,7 +652,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22192
+                    "stars": 22193
                   }
                 }
               ]
@@ -740,7 +740,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22192
+                    "stars": 22193
                   }
                 }
               ]
@@ -1099,7 +1099,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22192
+                    "stars": 22193
                   }
                 }
               ]
@@ -1187,7 +1187,7 @@
                     "last_commit": "2024-08-16T02:42:22Z",
                     "owner": "PaddlePaddle",
                     "repo": "Research",
-                    "stars": 1761
+                    "stars": 1762
                   }
                 }
               ]
@@ -1537,7 +1537,7 @@
                     "last_commit": "2023-08-28T01:50:11Z",
                     "owner": "rajpurkarlab",
                     "repo": "CheXzero",
-                    "stars": 2
+                    "stars": 3
                   }
                 }
               ]
@@ -2011,7 +2011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:51:02.052Z",
+    "last_updated": "2026-08-19T23:58:24.249Z",
     "original_repository": "ys-zong/awesome-self-supervised-multimodal-learning",
     "original_repository_id": 621875378,
     "original_repository_sha": "06853f99a894b18db3bee0536a7952f49e1e22ee",

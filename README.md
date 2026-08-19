@@ -93,7 +93,7 @@ In the context of multimodal learning, instance discrimination often aims to det
   * *ICML 2021* [\[paper\]](http://arxiv.org/abs/2103.00020v1)
 
 * Self-supervised multimodal versatile networks.
-  * *NeurIPS 2020* [\[paper\]](http://arxiv.org/abs/2006.16228v2) [\[code\]](https://github.com/deepmind/deepmind-research/tree/master/mmv) ⭐ 15,157 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17
+  * *NeurIPS 2020* [\[paper\]](http://arxiv.org/abs/2006.16228v2) [\[code\]](https://github.com/deepmind/deepmind-research/tree/master/mmv) ⭐ 15,159 | 🐛 341 | 🌐 Jupyter Notebook | 📅 2026-06-17
 
 * End-to-end learning of visual representations from uncurated instructional videos.
   * *CVPR 2020* [\[paper\]](http://arxiv.org/abs/1912.06430v4) [\[code\]](https://github.com/antoine77340/MIL-NCE_HowTo100M) ⭐ 221 | 🐛 8 | 🌐 Python | 📅 2022-07-05
@@ -138,7 +138,7 @@ In the context of multimodal learning, instance discrimination often aims to det
   * *ECCV 2018* [\[paper\]](http://arxiv.org/abs/1805.00833v2)
 
 * Vatt: Transformers for multimodal self-supervised learning from raw video, audio and text.
-  * *NeurIPS 2021* [\[paper\]](http://arxiv.org/abs/2104.11178v3) [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,579 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16
+  * *NeurIPS 2021* [\[paper\]](http://arxiv.org/abs/2104.11178v3) [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,581 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-19
 
 * Learning Video Representations using Contrastive Bidirectional Transformer.
   * *arXiv* [\[paper\]](http://arxiv.org/abs/1906.05743v2)
@@ -234,7 +234,7 @@ approach (similar to GPT).
   * *ICLR 2023* [\[paper\]](https://arxiv.org/abs/2212.06246) [\[code\]](https://github.com/ahaliassos/raven) ⭐ 82 | 🐛 5 | 🌐 Python | 📅 2025-02-27
 
 * Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks.
-  * *arXiv 2022* [\[paper\]](http://arxiv.org/abs/2208.10442v2) [\[code\]](https://github.com/microsoft/unilm/tree/master/beit3) ⭐ 22,192 | 🐛 683 | 🌐 Python | 📅 2026-01-23
+  * *arXiv 2022* [\[paper\]](http://arxiv.org/abs/2208.10442v2) [\[code\]](https://github.com/microsoft/unilm/tree/master/beit3) ⭐ 22,193 | 🐛 683 | 🌐 Python | 📅 2026-01-23
 
 * SimVLM: Simple Visual Language Model Pretraining with Weak Supervision.
   * *ICLR 2022* [\[paper\]](http://arxiv.org/abs/2108.10904v3) [\[code\]](https://github.com/YulongBonjour/SimVLM) ⭐ 36 | 🐛 6 | 🌐 Python | 📅 2022-11-07
@@ -246,7 +246,7 @@ approach (similar to GPT).
   * *ICLR 2023* [\[paper\]](http://arxiv.org/abs/2206.08916v2) [\[code\]](https://github.com/allenai/unified-io-inference) ⭐ 231 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2023-12-18
 
 * VL-BEiT: Generative Vision-Language Pretraining.
-  * *arXiv 2022* [\[paper\]](https://arxiv.org/abs/2206.01127) [\[code\]](https://github.com/microsoft/unilm/tree/master/vl-beit) ⭐ 22,192 | 🐛 683 | 🌐 Python | 📅 2026-01-23
+  * *arXiv 2022* [\[paper\]](https://arxiv.org/abs/2206.01127) [\[code\]](https://github.com/microsoft/unilm/tree/master/vl-beit) ⭐ 22,193 | 🐛 683 | 🌐 Python | 📅 2026-01-23
 
 * OPT: Omni-Perception Pre-Trainer for Cross-Modal Understanding and Generation.
   * *arXiv 2021* [\[paper\]](https://arxiv.org/abs/2107.00249) [\[code\]](https://github.com/mindspore-ai/models/tree/master/research/mm/opt) ⭐ 367 | 🐛 17 | 🌐 Python | 📅 2023-07-17
@@ -293,13 +293,13 @@ approach (similar to GPT).
   * *ICML 2022* [\[paper\]](https://arxiv.org/abs/2201.12086) [\[code\]](https://github.com/salesforce/BLIP) ⚠️ Archived
 
 * ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision.
-  * *ICML 2021* [\[paper\]](http://arxiv.org/abs/2102.03334v2) [\[code\]](https://github.com/dandelin/ViLT) ⭐ 1,537 | 🐛 61 | 🌐 Python | 📅 2024-04-03
+  * *ICML 2021* [\[paper\]](http://arxiv.org/abs/2102.03334v2) [\[code\]](https://github.com/dandelin/ViLT) ⭐ 1,537 | 🐛 60 | 🌐 Python | 📅 2024-04-03
 
 * UNITER: UNiversal Image-TExt Representation Learning.
   * *ECCV 2019* [\[paper\]](https://arxiv.org/abs/1909.11740) [\[code\]](https://github.com/ChenRocks/UNITER) ⭐ 799 | 🐛 46 | 🌐 Python | 📅 2021-06-30
 
 * VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts.
-  * *NeurIPS 2022* [\[paper\]](https://arxiv.org/abs/2111.02358) [\[code\]](https://github.com/microsoft/unilm/tree/master/vlmo) ⭐ 22,192 | 🐛 683 | 🌐 Python | 📅 2026-01-23
+  * *NeurIPS 2022* [\[paper\]](https://arxiv.org/abs/2111.02358) [\[code\]](https://github.com/microsoft/unilm/tree/master/vlmo) ⭐ 22,193 | 🐛 683 | 🌐 Python | 📅 2026-01-23
 
 * FLAVA: A Foundational Language And Vision Alignment Model.
   * *CVPR 2021* [\[paper\]](http://arxiv.org/abs/2112.04482v3) [\[code\]](https://github.com/facebookresearch/multimodal/tree/main/examples/flava) ⭐ 1,731 | 🐛 47 | 🌐 Python | 📅 2026-08-17
@@ -314,7 +314,7 @@ approach (similar to GPT).
   * *CVPR 2022* [\[paper\]](https://arxiv.org/abs/2203.00242) [\[code\]](https://github.com/zmykevin/UVLP) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2022-04-15
 
 * Unimo: Towards unified-modal understanding and generation via cross-modal contrastive learning.
-  * *ACL 2021* [\[paper\]](https://aclanthology.org/2021.acl-long.202/) [\[code\]](https://github.com/PaddlePaddle/Research/tree/master/NLP/UNIMO) ⭐ 1,761 | 🐛 137 | 🌐 Python | 📅 2024-08-16
+  * *ACL 2021* [\[paper\]](https://aclanthology.org/2021.acl-long.202/) [\[code\]](https://github.com/PaddlePaddle/Research/tree/master/NLP/UNIMO) ⭐ 1,762 | 🐛 137 | 🌐 Python | 📅 2024-08-16
 
 * Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs.
   * *TACL 2020* [\[paper\]](http://arxiv.org/abs/2011.15124v2) [\[code\]](https://github.com/e-bug/mpre-unmasked) ⭐ 6 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-05-30
@@ -383,7 +383,7 @@ approach (similar to GPT).
   * *ICCV 2021* [\[paper\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_GLoRIA_A_Multimodal_Global-Local_Representation_Learning_Framework_for_Label-Efficient_Medical_ICCV_2021_paper.pdf) [\[code\]](https://github.com/marshuang80/gloria) ⭐ 245 | 🐛 12 | 🌐 Python | 📅 2023-02-06
 
 * Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning.
-  * *Nature Biomedical Engineering 2022* [\[paper\]](https://www.nature.com/articles/s41551-022-00936-9) [\[code\]](https://github.com/rajpurkarlab/CheXzero) ⭐ 2 | 🐛 7 | 🌐 Python | 📅 2023-08-28
+  * *Nature Biomedical Engineering 2022* [\[paper\]](https://www.nature.com/articles/s41551-022-00936-9) [\[code\]](https://github.com/rajpurkarlab/CheXzero) ⭐ 3 | 🐛 7 | 🌐 Python | 📅 2023-08-28
 
 * Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports.
   * *Nature Machine Intelligence 2022* [\[paper\]](https://www.nature.com/articles/s42256-021-00425-9) [\[code\]](https://github.com/funnyzhou/REFERS) ⭐ 112 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2022-08-17
@@ -547,7 +547,7 @@ approach (similar to GPT).
 | **rendered SST2**          | \~1k                                                                                                             | \~1k                           | image of text    | optical character recognition (OCR)               | [Link](https://github.com/openai/CLIP/blob/main/data/rendered-sst2.md) ⭐ 34,196 \| 🐛 272 \| 🌐 Jupyter Notebook \| 📅 2026-03-25 | -                                                                                                                   |
 | **OCR-CC**                 | 1.4M                                                                                                             | 1.4M                           | Natural images   | optical character recognition (OCR)               | [Link](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-recognizing-text)                        | [Github](https://github.com/microsoft/TAP) ⭐ 72 \| 🐛 10 \| 🌐 Python \| 📅 2023-05-22                              |
 | **Hateful Memes**          | 10k+                                                                                                             | 10k+                           | memes            | optical character recognition (OCR)               | [Link](https://hatefulmemeschallenge.com/)                                                                                        | [Github](https://github.com/facebookresearch/mmf) ⭐ 5,634 \| 🐛 150 \| 🌐 Python \| 📅 2026-07-07                   |
-| **CORD**                   | 1K                                                                                                               | 1k                             | document         | OCR                                               | [Link](https://github.com/clovaai/cord) ⭐ 489 \| 🐛 4 \| 📅 2022-07-20                                                            | [Github](https://github.com/clovaai/cord) ⭐ 489 \| 🐛 4 \| 📅 2022-07-20                                            |
+| **CORD**                   | 1K                                                                                                               | 1k                             | document         | OCR                                               | [Link](https://github.com/clovaai/cord) ⭐ 488 \| 🐛 4 \| 📅 2022-07-20                                                            | [Github](https://github.com/clovaai/cord) ⭐ 488 \| 🐛 4 \| 📅 2022-07-20                                            |
 | **RefCOCO+**               | 19,992                                                                                                           | 141,564                        | Natural images   | Visual Grounding                                  | [Link](https://github.com/lichengunc/refer) ⭐ 575 \| 🐛 20 \| 🌐 Jupyter Notebook \| 📅 2024-08-27                                | [Github](https://github.com/lichengunc/refer) ⭐ 575 \| 🐛 20 \| 🌐 Jupyter Notebook \| 📅 2024-08-27                |
 
 ### Image-Text-Audio Datasets
