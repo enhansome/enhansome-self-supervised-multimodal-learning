@@ -22,7 +22,7 @@
                     "last_commit": "2026-06-17T13:51:27Z",
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15163
+                    "stars": 15166
                   }
                 }
               ]
@@ -286,7 +286,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38607
+                    "stars": 38611
                   }
                 }
               ]
@@ -352,7 +352,7 @@
                     "last_commit": "2024-01-23T08:32:20Z",
                     "owner": "vacancy",
                     "repo": "SceneGraphParser",
-                    "stars": 594
+                    "stars": 593
                   }
                 }
               ]
@@ -652,7 +652,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22194
+                    "stars": 22195
                   }
                 }
               ]
@@ -740,7 +740,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22194
+                    "stars": 22195
                   }
                 }
               ]
@@ -784,7 +784,7 @@
                     "last_commit": "2023-05-10T15:53:32Z",
                     "owner": "michiyasunaga",
                     "repo": "dragon",
-                    "stars": 332
+                    "stars": 333
                   }
                 }
               ]
@@ -828,7 +828,7 @@
                     "last_commit": "2025-09-30T11:16:06Z",
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32233
+                    "stars": 32235
                   }
                 }
               ]
@@ -1033,7 +1033,7 @@
                     "last_commit": "2026-03-03T12:43:12Z",
                     "owner": "salesforce",
                     "repo": "BLIP",
-                    "stars": 5718
+                    "stars": 5717
                   }
                 }
               ]
@@ -1055,7 +1055,7 @@
                     "last_commit": "2024-04-03T02:07:24Z",
                     "owner": "dandelin",
                     "repo": "ViLT",
-                    "stars": 1537
+                    "stars": 1538
                   }
                 }
               ]
@@ -1099,7 +1099,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22194
+                    "stars": 22195
                   }
                 }
               ]
@@ -1121,7 +1121,7 @@
                     "last_commit": "2026-08-17T15:05:57Z",
                     "owner": "facebookresearch",
                     "repo": "multimodal",
-                    "stars": 1731
+                    "stars": 1732
                   }
                 }
               ]
@@ -1427,7 +1427,7 @@
                     "last_commit": "2024-04-12T13:08:17Z",
                     "owner": "RyanWangZf",
                     "repo": "MedCLIP",
-                    "stars": 696
+                    "stars": 697
                   }
                 }
               ]
@@ -2008,10 +2008,718 @@
         }
       ],
       "title": "Challenges"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "COCO",
+              "description": ">330000 >1.5M Natural images image captioning, image-text retrieval Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32424750,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-05-13T12:04:29Z",
+                "owner": "tylin",
+                "repo": "coco-caption",
+                "stars": 1224
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FlickrStyle10K",
+              "description": "10,000 10,000 Natural images image captioning (stylized), image-text retrieval Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109919650,
+                "language": "Python",
+                "last_commit": "2020-12-13T13:13:23Z",
+                "owner": "kacky24",
+                "repo": "stylenet",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flickr8k",
+              "description": "8,000 5 for each Natural images image captioning, image-text retrieval Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186343005,
+                "language": null,
+                "last_commit": "2019-05-14T00:23:54Z",
+                "owner": "goodwillyoga",
+                "repo": "Flickr8k_dataset",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flickr8k-CN",
+              "description": "8,000 8,000 Natural images image captioning, image-text retrieval Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132777577,
+                "language": null,
+                "last_commit": "2020-10-28T13:52:03Z",
+                "owner": "li-xirong",
+                "repo": "flickr8kcn",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Conceptual Captions",
+              "description": "3M 3M Natural images image captioning, image-text retrieval Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 132960467,
+                "language": "Shell",
+                "last_commit": "2021-08-21T16:18:14Z",
+                "owner": "google-research-datasets",
+                "repo": "conceptual-captions",
+                "stars": 567
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AIC-ICC",
+              "description": "210K 210K Natural images image captioning, image-text retrieval Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114728921,
+                "language": "Python",
+                "last_commit": "2018-10-19T06:26:23Z",
+                "owner": "ruotianluo",
+                "repo": "Image_Captioning_AI_Challenger",
+                "stars": 217
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wikipedia",
+              "description": "2866 2866 document image captioning, image-text retrieval ? Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34758909,
+                "language": "Python",
+                "last_commit": "2015-05-04T18:13:14Z",
+                "owner": "emanuetre",
+                "repo": "crossmodal",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ImageCLEF 2019 VQA-Med",
+              "description": "3825 3825 Medicine VQA Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188087427,
+                "language": null,
+                "last_commit": "2026-05-13T15:30:25Z",
+                "owner": "abachaa",
+                "repo": "VQA-Med-2019",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VCR",
+              "description": "110k 290k/290k/290k (Q/A/Rationale) natural visual commonsense reasoning (VCR) Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 161720525,
+                "language": "Python",
+                "last_commit": "2021-05-06T19:24:28Z",
+                "owner": "rowanz",
+                "repo": "r2c",
+                "stars": 469
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 403032567,
+                "language": "Python",
+                "last_commit": "2021-09-04T11:05:48Z",
+                "owner": "WadeYin9712",
+                "repo": "GD-VCR",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 403032567,
+                "language": "Python",
+                "last_commit": "2021-09-04T11:05:48Z",
+                "owner": "WadeYin9712",
+                "repo": "GD-VCR",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Details",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159256284,
+                "language": "Python",
+                "last_commit": "2022-04-21T14:46:41Z",
+                "owner": "necla-ml",
+                "repo": "SNLI-VE",
+                "stars": 123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159256284,
+                "language": "Python",
+                "last_commit": "2022-04-21T14:46:41Z",
+                "owner": "necla-ml",
+                "repo": "SNLI-VE",
+                "stars": 123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NLVR2",
+              "description": "107,292 107,292 Natural images natural language for visual reasoning Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90633775,
+                "language": "HTML",
+                "last_commit": "2022-08-18T18:59:09Z",
+                "owner": "lil-lab",
+                "repo": "nlvr",
+                "stars": 270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NLVR",
+              "description": "92244 92244 synthetic images natural language for visual reasoning Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90633775,
+                "language": "HTML",
+                "last_commit": "2022-08-18T18:59:09Z",
+                "owner": "lil-lab",
+                "repo": "nlvr",
+                "stars": 270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rendered SST2",
+              "description": "~1k ~1k image of text optical character recognition (OCR) Link -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 321960447,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-03-25T18:46:40Z",
+                "owner": "openai",
+                "repo": "CLIP",
+                "stars": 34218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OCR-CC",
+              "description": "1.4M 1.4M Natural images optical character recognition (OCR) Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 373666890,
+                "language": "Python",
+                "last_commit": "2023-05-22T22:20:33Z",
+                "owner": "microsoft",
+                "repo": "TAP",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hateful Memes",
+              "description": "10k+ 10k+ memes optical character recognition (OCR) Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138831170,
+                "language": "Python",
+                "last_commit": "2026-07-07T21:35:07Z",
+                "owner": "facebookresearch",
+                "repo": "mmf",
+                "stars": 5633
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CORD",
+              "description": "1K 1k document OCR Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 227870634,
+                "language": null,
+                "last_commit": "2022-07-20T05:34:29Z",
+                "owner": "clovaai",
+                "repo": "cord",
+                "stars": 488
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RefCOCO+",
+              "description": "19,992 141,564 Natural images Visual Grounding Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54487819,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-08-27T08:53:26Z",
+                "owner": "lichengunc",
+                "repo": "refer",
+                "stars": 576
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Image-Text Datasets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Localized Narratives",
+              "description": "848,749 873,107 natural Image captioning, Paragraph generation, VQA, Phrase grounding etc. Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 235867589,
+                "language": "HTML",
+                "last_commit": "2021-09-09T20:35:51Z",
+                "owner": "google",
+                "repo": "localized-narratives",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "open image",
+              "description": "0.6M 0.6M natural Image captioning, detection, segmentation, VQA, etc Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69534574,
+                "language": "Python",
+                "last_commit": "2021-07-01T18:02:46Z",
+                "owner": "openimages",
+                "repo": "dataset",
+                "stars": 4376
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Image-Text-Audio Datasets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ActivityNet Captions",
+              "description": "20k: 100k 100k natural Video Captioning, video-text retrieval Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285623164,
+                "language": "Python",
+                "last_commit": "2021-08-25T13:22:08Z",
+                "owner": "ttengwang",
+                "repo": "dense-video-captioning-pytorch",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "V2C",
+              "description": "9k 27k natural (human action) Video Captioning, video-text retrieval Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238542779,
+                "language": "Python",
+                "last_commit": "2021-04-15T08:18:03Z",
+                "owner": "jacobswan1",
+                "repo": "Video2Commonsense",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VATEX",
+              "description": "41.3k 826k natural Video Captioning, video-text retrieval Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 255384022,
+                "language": "Python",
+                "last_commit": "2020-07-29T14:17:44Z",
+                "owner": "eric-xw",
+                "repo": "Video-guided-Machine-Translation",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YouCook2",
+              "description": "2k:15.4k 15.4k Cooking Video Captioning, video-text retrieval Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121713269,
+                "language": "Lua",
+                "last_commit": "2019-01-06T18:01:58Z",
+                "owner": "LuoweiZhou",
+                "repo": "ProcNets-YouCook2",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MSR-VTT",
+              "description": "7k:10k 200k natural Video Captioning, video-text retrieval Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 265799778,
+                "language": null,
+                "last_commit": "2023-05-16T06:52:57Z",
+                "owner": "crux82",
+                "repo": "msr-vtt-it",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TGIF",
+              "description": "102k: 102k 126k animated GIFs Video Captioning, video-text retrieval Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55571205,
+                "language": "Python",
+                "last_commit": "2024-06-17T22:32:46Z",
+                "owner": "raingo",
+                "repo": "TGIF-Release",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CrossTask",
+              "description": "4.7K:- 4.7k instructional Temporal action localization Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176490132,
+                "language": "Python",
+                "last_commit": "2022-02-14T13:33:10Z",
+                "owner": "DmZhukov",
+                "repo": "CrossTask",
+                "stars": 98
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MiningYoutube",
+              "description": "20k:200k 200k Cooking Temporal action localization Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180634049,
+                "language": "Python",
+                "last_commit": "2020-03-09T22:13:22Z",
+                "owner": "hildekuehne",
+                "repo": "Mining_YouTube_dataset",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "COIN",
+              "description": "11,827:- 46,354 12 different domains Action Segmentation Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173659900,
+                "language": "Python",
+                "last_commit": "2021-06-27T14:42:34Z",
+                "owner": "coin-dataset",
+                "repo": "annotations",
+                "stars": 132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HOMAGE",
+              "description": "1.75K Indoor activity Activity Classification Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379766056,
+                "language": "Python",
+                "last_commit": "2021-11-08T00:49:46Z",
+                "owner": "nishantrai18",
+                "repo": "homage",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Video-Text Datasets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SoundNet",
+              "description": "2M natural Audio-visual correspondence Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70248555,
+                "language": "Lua",
+                "last_commit": "2017-10-07T03:20:20Z",
+                "owner": "cvondrick",
+                "repo": "soundnet",
+                "stars": 466
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144522997,
+                "language": null,
+                "last_commit": "2022-08-12T02:55:59Z",
+                "owner": "roudimit",
+                "repo": "MUSIC_dataset",
+                "stars": 139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 158138352,
+                "language": "Python",
+                "last_commit": "2022-04-25T06:26:41Z",
+                "owner": "hangzhaomit",
+                "repo": "Sound-of-Pixels",
+                "stars": 393
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AVSpeech",
+              "description": "290k Person Audio-visual correspondence Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213952718,
+                "language": "Python",
+                "last_commit": "2022-12-08T11:30:55Z",
+                "owner": "JusperLee",
+                "repo": "Looking-to-Listen-at-the-Cocktail-Party",
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AV-Bench",
+              "description": "v1 ~5k, v2 ~7k natural Audio-Visual Correspondence (AVC), Audio-Visual Event Localization (AVEL) and video parsing (AVVP), Sound Source Localization (SSL), etc. Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 511917351,
+                "language": "Python",
+                "last_commit": "2024-11-18T02:12:34Z",
+                "owner": "OpenNLPLab",
+                "repo": "AVSBench",
+                "stars": 421
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AVE",
+              "description": "4143 natural temporal localization Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139663560,
+                "language": "Python",
+                "last_commit": "2021-04-03T14:18:44Z",
+                "owner": "YapengTian",
+                "repo": "AVE-ECCV18",
+                "stars": 210
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "360° video",
+              "description": "1146 camera Spatial Audio generation Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147755865,
+                "language": "Python",
+                "last_commit": "2023-03-24T22:30:14Z",
+                "owner": "pedro-morgado",
+                "repo": "spatialaudiogen",
+                "stars": 116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "openpose",
+              "description": "person Audio-visual correspondence, music-to-video generation Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89247811,
+                "language": "C++",
+                "last_commit": "2024-08-03T01:59:11Z",
+                "owner": "CMU-Perceptual-Computing-Lab",
+                "repo": "openpose",
+                "stars": 34390
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Video-Audio Datasets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ModelNet40",
+              "description": "12,311 CAD models Classification, reconstruction Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39903806,
+                "language": "Matlab",
+                "last_commit": "2015-07-29T16:23:53Z",
+                "owner": "zhirongw",
+                "repo": "3DShapeNets",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ScanObjectNN",
+              "description": "2902 real-world point cloud Classification, reconstruction Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201172351,
+                "language": "Python",
+                "last_commit": "2022-08-11T07:18:43Z",
+                "owner": "hkust-vgd",
+                "repo": "scanobjectnn",
+                "stars": 255
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Point Cloud Datasets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nuScenes",
+              "description": "auto driving 3D detection and tracking Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147720534,
+                "language": "Python",
+                "last_commit": "2026-08-06T02:06:21Z",
+                "owner": "nutonomy",
+                "repo": "nuscenes-devkit",
+                "stars": 2795
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SemanticKITTI",
+              "description": "23201+20351 4549 auto driving segmentation Link Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198577858,
+                "language": "Python",
+                "last_commit": "2025-04-03T07:55:17Z",
+                "owner": "PRBonn",
+                "repo": "semantic-kitti-api",
+                "stars": 895
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Image-Ridar Datasets"
+        }
+      ],
+      "title": "Summary of Common Multimodal Datasets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:57:10.836Z",
+    "last_updated": "2026-08-24T14:28:20.330Z",
     "original_repository": "ys-zong/awesome-self-supervised-multimodal-learning",
     "original_repository_id": 621875378,
     "original_repository_sha": "06853f99a894b18db3bee0536a7952f49e1e22ee",
