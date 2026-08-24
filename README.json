@@ -22,7 +22,7 @@
                     "last_commit": "2026-06-17T13:51:27Z",
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15166
+                    "stars": 15167
                   }
                 }
               ]
@@ -176,7 +176,7 @@
                     "last_commit": "2025-05-19T13:55:52Z",
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3523
+                    "stars": 3524
                   }
                 }
               ]
@@ -286,7 +286,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38611
+                    "stars": 38613
                   }
                 }
               ]
@@ -652,7 +652,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22195
+                    "stars": 22194
                   }
                 }
               ]
@@ -740,7 +740,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22195
+                    "stars": 22194
                   }
                 }
               ]
@@ -1099,7 +1099,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22195
+                    "stars": 22194
                   }
                 }
               ]
@@ -1118,10 +1118,10 @@
                     "archived": false,
                     "id": 452825945,
                     "language": "Python",
-                    "last_commit": "2026-08-17T15:05:57Z",
+                    "last_commit": "2026-08-24T15:05:20Z",
                     "owner": "facebookresearch",
                     "repo": "multimodal",
-                    "stars": 1732
+                    "stars": 1733
                   }
                 }
               ]
@@ -1515,7 +1515,7 @@
                     "last_commit": "2023-02-06T04:20:24Z",
                     "owner": "marshuang80",
                     "repo": "gloria",
-                    "stars": 246
+                    "stars": 247
                   }
                 }
               ]
@@ -2056,7 +2056,7 @@
                 "last_commit": "2019-05-14T00:23:54Z",
                 "owner": "goodwillyoga",
                 "repo": "Flickr8k_dataset",
-                "stars": 28
+                "stars": 29
               }
             },
             {
@@ -2632,7 +2632,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34390
+                "stars": 34393
               }
             }
           ],
@@ -2706,7 +2706,7 @@
                 "last_commit": "2025-04-03T07:55:17Z",
                 "owner": "PRBonn",
                 "repo": "semantic-kitti-api",
-                "stars": 895
+                "stars": 894
               }
             }
           ],
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:28:20.330Z",
+    "last_updated": "2026-08-24T23:58:09.271Z",
     "original_repository": "ys-zong/awesome-self-supervised-multimodal-learning",
     "original_repository_id": 621875378,
     "original_repository_sha": "06853f99a894b18db3bee0536a7952f49e1e22ee",
