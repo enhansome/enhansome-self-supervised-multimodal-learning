@@ -176,7 +176,7 @@
                     "last_commit": "2025-05-19T13:55:52Z",
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3524
+                    "stars": 3525
                   }
                 }
               ]
@@ -286,7 +286,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38613
+                    "stars": 38614
                   }
                 }
               ]
@@ -652,7 +652,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22194
+                    "stars": 22193
                   }
                 }
               ]
@@ -740,7 +740,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22194
+                    "stars": 22193
                   }
                 }
               ]
@@ -1099,7 +1099,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22194
+                    "stars": 22193
                   }
                 }
               ]
@@ -1187,7 +1187,7 @@
                     "last_commit": "2024-08-16T02:42:22Z",
                     "owner": "PaddlePaddle",
                     "repo": "Research",
-                    "stars": 1762
+                    "stars": 1763
                   }
                 }
               ]
@@ -2166,7 +2166,7 @@
             },
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "WadeYin9712/GD-VCR",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2251,7 +2251,7 @@
                 "last_commit": "2026-03-25T18:46:40Z",
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34218
+                "stars": 34221
               }
             },
             {
@@ -2496,7 +2496,7 @@
             {
               "node_type": "item",
               "title": "HOMAGE",
-              "description": "1.75K Indoor activity Activity Classification Link Github",
+              "description": "1.75K  Indoor activity Activity Classification Link Github",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2518,7 +2518,7 @@
             {
               "node_type": "item",
               "title": "SoundNet",
-              "description": "2M natural Audio-visual correspondence Link Github",
+              "description": "2M  natural Audio-visual correspondence Link Github",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2547,7 +2547,7 @@
             },
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "hangzhaomit/Sound-of-Pixels",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2563,7 +2563,7 @@
             {
               "node_type": "item",
               "title": "AVSpeech",
-              "description": "290k Person Audio-visual correspondence Link Github",
+              "description": "290k  Person Audio-visual correspondence Link Github",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2578,7 +2578,7 @@
             {
               "node_type": "item",
               "title": "AV-Bench",
-              "description": "v1 ~5k, v2 ~7k natural Audio-Visual Correspondence (AVC), Audio-Visual Event Localization (AVEL) and video parsing (AVVP), Sound Source Localization (SSL), etc. Link Github",
+              "description": "v1 ~5k, v2 ~7k  natural Audio-Visual Correspondence (AVC), Audio-Visual Event Localization (AVEL) and video parsing (AVVP), Sound Source Localization (SSL), etc. Link Github",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2593,7 +2593,7 @@
             {
               "node_type": "item",
               "title": "AVE",
-              "description": "4143 natural temporal localization Link Github",
+              "description": "4143  natural temporal localization Link Github",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2608,7 +2608,7 @@
             {
               "node_type": "item",
               "title": "360° video",
-              "description": "1146 camera Spatial Audio generation Link Github",
+              "description": "1146  camera Spatial Audio generation Link Github",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2632,7 +2632,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34393
+                "stars": 34396
               }
             }
           ],
@@ -2706,7 +2706,7 @@
                 "last_commit": "2025-04-03T07:55:17Z",
                 "owner": "PRBonn",
                 "repo": "semantic-kitti-api",
-                "stars": 894
+                "stars": 895
               }
             }
           ],
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:58:09.271Z",
+    "last_updated": "2026-08-25T06:21:32.393Z",
     "original_repository": "ys-zong/awesome-self-supervised-multimodal-learning",
     "original_repository_id": 621875378,
     "original_repository_sha": "06853f99a894b18db3bee0536a7952f49e1e22ee",
