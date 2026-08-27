@@ -22,7 +22,7 @@
                     "last_commit": "2026-06-17T13:51:27Z",
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15168
+                    "stars": 15169
                   }
                 }
               ]
@@ -176,7 +176,7 @@
                     "last_commit": "2025-05-19T13:55:52Z",
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3526
+                    "stars": 3529
                   }
                 }
               ]
@@ -283,10 +283,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-25T18:30:01Z",
+                    "last_commit": "2026-08-26T23:28:07Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38618
+                    "stars": 38626
                   }
                 }
               ]
@@ -586,7 +586,7 @@
                     "last_commit": "2024-04-24T05:27:36Z",
                     "owner": "microsoft",
                     "repo": "SpeechT5",
-                    "stars": 1448
+                    "stars": 1449
                   }
                 }
               ]
@@ -649,7 +649,7 @@
                     "archived": false,
                     "id": 198350484,
                     "language": "Python",
-                    "last_commit": "2026-01-23T04:09:35Z",
+                    "last_commit": "2026-08-26T08:16:01Z",
                     "owner": "microsoft",
                     "repo": "unilm",
                     "stars": 22194
@@ -737,7 +737,7 @@
                     "archived": false,
                     "id": 198350484,
                     "language": "Python",
-                    "last_commit": "2026-01-23T04:09:35Z",
+                    "last_commit": "2026-08-26T08:16:01Z",
                     "owner": "microsoft",
                     "repo": "unilm",
                     "stars": 22194
@@ -828,7 +828,7 @@
                     "last_commit": "2025-09-30T11:16:06Z",
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32232
+                    "stars": 32231
                   }
                 }
               ]
@@ -1096,7 +1096,7 @@
                     "archived": false,
                     "id": 198350484,
                     "language": "Python",
-                    "last_commit": "2026-01-23T04:09:35Z",
+                    "last_commit": "2026-08-26T08:16:01Z",
                     "owner": "microsoft",
                     "repo": "unilm",
                     "stars": 22194
@@ -1354,7 +1354,7 @@
                     "last_commit": "2022-09-15T13:50:33Z",
                     "owner": "hardmaru",
                     "repo": "WorldModelsExperiments",
-                    "stars": 733
+                    "stars": 734
                   }
                 }
               ]
@@ -1835,7 +1835,7 @@
                     "last_commit": "2022-09-19T03:50:23Z",
                     "owner": "Sense-GVT",
                     "repo": "DeCLIP",
-                    "stars": 677
+                    "stars": 678
                   }
                 }
               ]
@@ -2251,7 +2251,7 @@
                 "last_commit": "2026-03-25T18:46:40Z",
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34224
+                "stars": 34237
               }
             },
             {
@@ -2542,7 +2542,7 @@
                 "last_commit": "2022-08-12T02:55:59Z",
                 "owner": "roudimit",
                 "repo": "MUSIC_dataset",
-                "stars": 139
+                "stars": 140
               }
             },
             {
@@ -2632,7 +2632,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34403
+                "stars": 34414
               }
             }
           ],
@@ -2654,7 +2654,7 @@
                 "last_commit": "2015-07-29T16:23:53Z",
                 "owner": "zhirongw",
                 "repo": "3DShapeNets",
-                "stars": 80
+                "stars": 81
               }
             },
             {
@@ -2691,7 +2691,7 @@
                 "last_commit": "2026-08-06T02:06:21Z",
                 "owner": "nutonomy",
                 "repo": "nuscenes-devkit",
-                "stars": 2795
+                "stars": 2796
               }
             },
             {
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:59:35.026Z",
+    "last_updated": "2026-08-27T05:03:38.326Z",
     "original_repository": "ys-zong/awesome-self-supervised-multimodal-learning",
     "original_repository_id": 621875378,
     "original_repository_sha": "06853f99a894b18db3bee0536a7952f49e1e22ee",
