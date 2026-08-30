@@ -23,10 +23,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-06-17T13:51:27Z",
-                    "open_issues": 358,
+                    "open_issues": 357,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15173,
+                    "stars": 15174,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -397,7 +397,7 @@
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38643,
+                    "stars": 38651,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1168,7 +1168,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32232,
+                    "stars": 32231,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -3185,7 +3185,7 @@
                 "open_issues": 272,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34240,
+                "stars": 34239,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -3230,7 +3230,7 @@
                 "open_issues": 150,
                 "owner": "facebookresearch",
                 "repo": "mmf",
-                "stars": 5633,
+                "stars": 5634,
                 "topics": [
                   "captioning",
                   "deep-learning",
@@ -3921,7 +3921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:14:12.795Z",
+    "last_updated": "2026-08-30T01:40:29.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
