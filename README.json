@@ -238,7 +238,7 @@
                     "open_issues": 57,
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3531,
+                    "stars": 3532,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -359,7 +359,7 @@
                     "open_issues": 10,
                     "owner": "MohamedAfham",
                     "repo": "CrossPoint",
-                    "stars": 266,
+                    "stars": 265,
                     "topics": [
                       "3d-point-clouds",
                       "cross-modal-learning",
@@ -393,11 +393,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-27T09:11:14Z",
+                    "last_commit": "2026-08-31T14:53:17Z",
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38656,
+                    "stars": 38661,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -889,7 +889,7 @@
                     "open_issues": 684,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22197,
+                    "stars": 22199,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1027,7 +1027,7 @@
                     "open_issues": 684,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22197,
+                    "stars": 22199,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1104,7 +1104,7 @@
                     "open_issues": 1,
                     "owner": "michiyasunaga",
                     "repo": "dragon",
-                    "stars": 333,
+                    "stars": 334,
                     "topics": [
                       "graph-neural-networks",
                       "knowledge-graph",
@@ -1168,7 +1168,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32229,
+                    "stars": 32228,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -1589,7 +1589,7 @@
                     "open_issues": 684,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22197,
+                    "stars": 22199,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1634,11 +1634,11 @@
                     "id": 452825945,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-08-24T15:05:20Z",
+                    "last_commit": "2026-08-31T15:04:58Z",
                     "open_issues": 43,
                     "owner": "facebookresearch",
                     "repo": "multimodal",
-                    "stars": 1732,
+                    "stars": 1733,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3185,7 +3185,7 @@
                 "open_issues": 272,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34241,
+                "stars": 34246,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -3283,7 +3283,7 @@
                 "open_issues": 20,
                 "owner": "lichengunc",
                 "repo": "refer",
-                "stars": 576,
+                "stars": 577,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3778,7 +3778,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34419,
+                "stars": 34418,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3921,7 +3921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T01:37:09.852Z",
+    "last_updated": "2026-09-01T02:03:28.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
