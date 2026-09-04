@@ -26,7 +26,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15180,
+                    "stars": 15182,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -238,7 +238,7 @@
                     "open_issues": 57,
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3533,
+                    "stars": 3534,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -393,11 +393,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-02T22:34:06Z",
+                    "last_commit": "2026-09-03T08:28:07Z",
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38681,
+                    "stars": 38689,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1235,7 +1235,7 @@
                     "open_issues": 66,
                     "owner": "salesforce",
                     "repo": "ALBEF",
-                    "stars": 1755,
+                    "stars": 1754,
                     "topics": [
                       "contrastive-learning",
                       "image-text",
@@ -1490,7 +1490,7 @@
                     "open_issues": 135,
                     "owner": "salesforce",
                     "repo": "BLIP",
-                    "stars": 5714,
+                    "stars": 5713,
                     "topics": [
                       "image-captioning",
                       "image-text-retrieval",
@@ -1526,7 +1526,7 @@
                     "open_issues": 60,
                     "owner": "dandelin",
                     "repo": "ViLT",
-                    "stars": 1538,
+                    "stars": 1536,
                     "topics": [
                       "vision-and-language"
                     ]
@@ -2029,7 +2029,7 @@
                     "open_issues": 32,
                     "owner": "RyanWangZf",
                     "repo": "MedCLIP",
-                    "stars": 697,
+                    "stars": 695,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3185,7 +3185,7 @@
                 "open_issues": 272,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34253,
+                "stars": 34257,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -3778,7 +3778,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34422,
+                "stars": 34423,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3876,7 +3876,7 @@
                 "open_issues": 32,
                 "owner": "nutonomy",
                 "repo": "nuscenes-devkit",
-                "stars": 2798,
+                "stars": 2799,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3897,7 +3897,7 @@
                 "open_issues": 2,
                 "owner": "PRBonn",
                 "repo": "semantic-kitti-api",
-                "stars": 895,
+                "stars": 897,
                 "topics": [
                   "dataset",
                   "deep-learning",
@@ -3921,7 +3921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T01:27:23.041Z",
+    "last_updated": "2026-09-04T01:22:09.999Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
