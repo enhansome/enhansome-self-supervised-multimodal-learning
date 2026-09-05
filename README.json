@@ -26,7 +26,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15182,
+                    "stars": 15181,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -238,7 +238,7 @@
                     "open_issues": 57,
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3534,
+                    "stars": 3535,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -397,7 +397,7 @@
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38689,
+                    "stars": 38691,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1414,7 +1414,7 @@
                     "open_issues": 190,
                     "owner": "PaddlePaddle",
                     "repo": "PaddleVideo",
-                    "stars": 1702,
+                    "stars": 1701,
                     "topics": [
                       "actbert",
                       "action-detection",
@@ -1526,7 +1526,7 @@
                     "open_issues": 60,
                     "owner": "dandelin",
                     "repo": "ViLT",
-                    "stars": 1536,
+                    "stars": 1537,
                     "topics": [
                       "vision-and-language"
                     ]
@@ -3185,7 +3185,7 @@
                 "open_issues": 272,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34257,
+                "stars": 34259,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -3778,7 +3778,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34423,
+                "stars": 34425,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3897,7 +3897,7 @@
                 "open_issues": 2,
                 "owner": "PRBonn",
                 "repo": "semantic-kitti-api",
-                "stars": 897,
+                "stars": 898,
                 "topics": [
                   "dataset",
                   "deep-learning",
@@ -3921,7 +3921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T01:22:09.999Z",
+    "last_updated": "2026-09-05T01:25:28.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
