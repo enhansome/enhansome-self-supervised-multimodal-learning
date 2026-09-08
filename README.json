@@ -26,7 +26,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15184,
+                    "stars": 15185,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -138,7 +138,7 @@
                     "open_issues": 12,
                     "owner": "ZrrSkywalker",
                     "repo": "PointCLIP",
-                    "stars": 411,
+                    "stars": 412,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -210,7 +210,7 @@
                     "open_issues": 12,
                     "owner": "ZrrSkywalker",
                     "repo": "PointCLIP",
-                    "stars": 411,
+                    "stars": 412,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -393,11 +393,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-03T08:28:07Z",
+                    "last_commit": "2026-09-07T16:12:34Z",
                     "open_issues": 1990,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38699,
+                    "stars": 38709,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -886,10 +886,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-26T08:16:01Z",
-                    "open_issues": 684,
+                    "open_issues": 685,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22204,
+                    "stars": 22206,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1024,10 +1024,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-26T08:16:01Z",
-                    "open_issues": 684,
+                    "open_issues": 685,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22204,
+                    "stars": 22206,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1414,7 +1414,7 @@
                     "open_issues": 190,
                     "owner": "PaddlePaddle",
                     "repo": "PaddleVideo",
-                    "stars": 1701,
+                    "stars": 1700,
                     "topics": [
                       "actbert",
                       "action-detection",
@@ -1586,10 +1586,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-26T08:16:01Z",
-                    "open_issues": 684,
+                    "open_issues": 685,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22204,
+                    "stars": 22206,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1634,11 +1634,11 @@
                     "id": 452825945,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-08-31T15:04:58Z",
+                    "last_commit": "2026-09-07T15:06:46Z",
                     "open_issues": 43,
                     "owner": "facebookresearch",
                     "repo": "multimodal",
-                    "stars": 1733,
+                    "stars": 1734,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -2929,7 +2929,7 @@
                 "open_issues": 9,
                 "owner": "google-research-datasets",
                 "repo": "conceptual-captions",
-                "stars": 567,
+                "stars": 566,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3185,7 +3185,7 @@
                 "open_issues": 272,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34265,
+                "stars": 34272,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -3336,7 +3336,7 @@
                 "open_issues": 37,
                 "owner": "openimages",
                 "repo": "dataset",
-                "stars": 4375,
+                "stars": 4376,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3731,7 +3731,7 @@
                 "open_issues": 9,
                 "owner": "YapengTian",
                 "repo": "AVE-ECCV18",
-                "stars": 210,
+                "stars": 211,
                 "topics": [
                   "audio-visual-events",
                   "audio-visual-learning",
@@ -3778,7 +3778,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34427,
+                "stars": 34433,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3876,7 +3876,7 @@
                 "open_issues": 32,
                 "owner": "nutonomy",
                 "repo": "nuscenes-devkit",
-                "stars": 2800,
+                "stars": 2802,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3921,7 +3921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T01:18:27.805Z",
+    "last_updated": "2026-09-08T01:24:13.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
