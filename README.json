@@ -26,7 +26,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15185,
+                    "stars": 15189,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -166,7 +166,7 @@
                     "open_issues": 28,
                     "owner": "ArrowLuo",
                     "repo": "CLIP4Clip",
-                    "stars": 1032,
+                    "stars": 1033,
                     "topics": [
                       "activitynet",
                       "clip",
@@ -238,7 +238,7 @@
                     "open_issues": 57,
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3535,
+                    "stars": 3536,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -393,11 +393,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-07T16:12:34Z",
+                    "last_commit": "2026-09-08T09:22:17Z",
                     "open_issues": 1990,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38709,
+                    "stars": 38713,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -599,7 +599,7 @@
                     "open_issues": 11,
                     "owner": "hangzhaomit",
                     "repo": "Sound-of-Pixels",
-                    "stars": 393,
+                    "stars": 394,
                     "topics": [
                       "computer-vision",
                       "cross-modality",
@@ -751,7 +751,7 @@
                     "open_issues": 4,
                     "owner": "yukimasano",
                     "repo": "self-label",
-                    "stars": 546,
+                    "stars": 545,
                     "topics": [
                       "clustering",
                       "iclr2020",
@@ -1104,7 +1104,7 @@
                     "open_issues": 1,
                     "owner": "michiyasunaga",
                     "repo": "dragon",
-                    "stars": 334,
+                    "stars": 335,
                     "topics": [
                       "graph-neural-networks",
                       "knowledge-graph",
@@ -1168,7 +1168,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32231,
+                    "stars": 32230,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -1490,7 +1490,7 @@
                     "open_issues": 135,
                     "owner": "salesforce",
                     "repo": "BLIP",
-                    "stars": 5713,
+                    "stars": 5712,
                     "topics": [
                       "image-captioning",
                       "image-text-retrieval",
@@ -1526,7 +1526,7 @@
                     "open_issues": 60,
                     "owner": "dandelin",
                     "repo": "ViLT",
-                    "stars": 1537,
+                    "stars": 1536,
                     "topics": [
                       "vision-and-language"
                     ]
@@ -1722,7 +1722,7 @@
                     "open_issues": 137,
                     "owner": "PaddlePaddle",
                     "repo": "Research",
-                    "stars": 1763,
+                    "stars": 1764,
                     "topics": [
                       "computer-vision",
                       "data-mining",
@@ -1938,7 +1938,7 @@
                     "open_issues": 9,
                     "owner": "hardmaru",
                     "repo": "WorldModelsExperiments",
-                    "stars": 737,
+                    "stars": 738,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -2169,7 +2169,7 @@
                     "open_issues": 7,
                     "owner": "rajpurkarlab",
                     "repo": "CheXzero",
-                    "stars": 3,
+                    "stars": 4,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3185,7 +3185,7 @@
                 "open_issues": 272,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34272,
+                "stars": 34273,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -3230,7 +3230,7 @@
                 "open_issues": 150,
                 "owner": "facebookresearch",
                 "repo": "mmf",
-                "stars": 5633,
+                "stars": 5631,
                 "topics": [
                   "captioning",
                   "deep-learning",
@@ -3336,7 +3336,7 @@
                 "open_issues": 37,
                 "owner": "openimages",
                 "repo": "dataset",
-                "stars": 4376,
+                "stars": 4375,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3653,7 +3653,7 @@
                 "open_issues": 11,
                 "owner": "hangzhaomit",
                 "repo": "Sound-of-Pixels",
-                "stars": 393,
+                "stars": 394,
                 "topics": [
                   "computer-vision",
                   "cross-modality",
@@ -3778,7 +3778,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34433,
+                "stars": 34432,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3897,7 +3897,7 @@
                 "open_issues": 2,
                 "owner": "PRBonn",
                 "repo": "semantic-kitti-api",
-                "stars": 898,
+                "stars": 899,
                 "topics": [
                   "dataset",
                   "deep-learning",
@@ -3921,7 +3921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:24:13.085Z",
+    "last_updated": "2026-09-09T01:32:36.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
