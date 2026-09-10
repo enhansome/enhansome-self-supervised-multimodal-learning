@@ -26,7 +26,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15189,
+                    "stars": 15190,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -238,7 +238,7 @@
                     "open_issues": 57,
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3536,
+                    "stars": 3537,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -359,7 +359,7 @@
                     "open_issues": 10,
                     "owner": "MohamedAfham",
                     "repo": "CrossPoint",
-                    "stars": 265,
+                    "stars": 266,
                     "topics": [
                       "3d-point-clouds",
                       "cross-modal-learning",
@@ -393,11 +393,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-08T09:22:17Z",
+                    "last_commit": "2026-09-10T00:21:25Z",
                     "open_issues": 1990,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38713,
+                    "stars": 38720,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -667,7 +667,7 @@
                     "open_issues": 56,
                     "owner": "facebookresearch",
                     "repo": "av_hubert",
-                    "stars": 996,
+                    "stars": 997,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -695,7 +695,7 @@
                     "open_issues": 56,
                     "owner": "facebookresearch",
                     "repo": "av_hubert",
-                    "stars": 996,
+                    "stars": 997,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -889,7 +889,7 @@
                     "open_issues": 685,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22206,
+                    "stars": 22205,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1027,7 +1027,7 @@
                     "open_issues": 685,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22206,
+                    "stars": 22205,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1490,7 +1490,7 @@
                     "open_issues": 135,
                     "owner": "salesforce",
                     "repo": "BLIP",
-                    "stars": 5712,
+                    "stars": 5711,
                     "topics": [
                       "image-captioning",
                       "image-text-retrieval",
@@ -1589,7 +1589,7 @@
                     "open_issues": 685,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22206,
+                    "stars": 22205,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1938,7 +1938,7 @@
                     "open_issues": 9,
                     "owner": "hardmaru",
                     "repo": "WorldModelsExperiments",
-                    "stars": 738,
+                    "stars": 739,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -2574,7 +2574,7 @@
                     "open_issues": 24,
                     "owner": "Sense-GVT",
                     "repo": "DeCLIP",
-                    "stars": 678,
+                    "stars": 677,
                     "topics": [
                       "big-model",
                       "clip",
@@ -2687,7 +2687,7 @@
                     "open_issues": 1,
                     "owner": "jinyuan-jia",
                     "repo": "BadEncoder",
-                    "stars": 85,
+                    "stars": 86,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -2835,7 +2835,7 @@
                 "open_issues": 41,
                 "owner": "tylin",
                 "repo": "coco-caption",
-                "stars": 1224,
+                "stars": 1223,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -2992,7 +2992,7 @@
                 "open_issues": 0,
                 "owner": "abachaa",
                 "repo": "VQA-Med-2019",
-                "stars": 93,
+                "stars": 94,
                 "topics": [
                   "imageclef",
                   "medical-imaging",
@@ -3185,7 +3185,7 @@
                 "open_issues": 272,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34273,
+                "stars": 34280,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -3778,7 +3778,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34432,
+                "stars": 34433,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3876,7 +3876,7 @@
                 "open_issues": 32,
                 "owner": "nutonomy",
                 "repo": "nuscenes-devkit",
-                "stars": 2802,
+                "stars": 2803,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3921,7 +3921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:32:36.870Z",
+    "last_updated": "2026-09-10T01:28:11.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
