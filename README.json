@@ -23,10 +23,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-06-17T13:51:27Z",
-                    "open_issues": 358,
+                    "open_issues": 359,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15196,
+                    "stars": 15198,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -294,7 +294,7 @@
                     "open_issues": 18,
                     "owner": "facebookresearch",
                     "repo": "SLIP",
-                    "stars": 788,
+                    "stars": 789,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -394,10 +394,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-10T00:21:25Z",
-                    "open_issues": 1992,
+                    "open_issues": 1994,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38750,
+                    "stars": 38759,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1168,7 +1168,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32228,
+                    "stars": 32227,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -1523,10 +1523,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2024-04-03T02:07:24Z",
-                    "open_issues": 60,
+                    "open_issues": 61,
                     "owner": "dandelin",
                     "repo": "ViLT",
-                    "stars": 1537,
+                    "stars": 1538,
                     "topics": [
                       "vision-and-language"
                     ]
@@ -1634,7 +1634,7 @@
                     "id": 452825945,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-07T15:06:46Z",
+                    "last_commit": "2026-09-14T15:06:03Z",
                     "open_issues": 43,
                     "owner": "facebookresearch",
                     "repo": "multimodal",
@@ -2232,7 +2232,7 @@
                     "open_issues": 0,
                     "owner": "danfenghong",
                     "repo": "ISPRS_S2FL",
-                    "stars": 129,
+                    "stars": 128,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -2929,7 +2929,7 @@
                 "open_issues": 9,
                 "owner": "google-research-datasets",
                 "repo": "conceptual-captions",
-                "stars": 566,
+                "stars": 567,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3185,7 +3185,7 @@
                 "open_issues": 273,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34297,
+                "stars": 34308,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -3230,7 +3230,7 @@
                 "open_issues": 150,
                 "owner": "facebookresearch",
                 "repo": "mmf",
-                "stars": 5631,
+                "stars": 5632,
                 "topics": [
                   "captioning",
                   "deep-learning",
@@ -3778,7 +3778,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34444,
+                "stars": 34445,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3873,7 +3873,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-06T02:06:21Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "nutonomy",
                 "repo": "nuscenes-devkit",
                 "stars": 2804,
@@ -3921,7 +3921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T01:41:35.307Z",
+    "last_updated": "2026-09-15T01:54:36.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
