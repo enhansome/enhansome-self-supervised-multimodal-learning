@@ -138,7 +138,7 @@ In the context of multimodal learning, instance discrimination often aims to det
   * *ECCV 2018* [\[paper\]](http://arxiv.org/abs/1805.00833v2)
 
 * Vatt: Transformers for multimodal self-supervised learning from raw video, audio and text.
-  * *NeurIPS 2021* [\[paper\]](http://arxiv.org/abs/2104.11178v3) [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,789 | 🐛 1,995 | 🌐 Jupyter Notebook | 📅 2026-09-16
+  * *NeurIPS 2021* [\[paper\]](http://arxiv.org/abs/2104.11178v3) [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,795 | 🐛 1,995 | 🌐 Jupyter Notebook | 📅 2026-09-16
 
 * Learning Video Representations using Contrastive Bidirectional Transformer.
   * *arXiv* [\[paper\]](http://arxiv.org/abs/1906.05743v2)
@@ -225,7 +225,7 @@ approach (similar to GPT).
 </p>
 
 * VATLM: Visual-Audio-Text Pre-Training with Unified Masked Prediction for Speech Representation Learning.
-  * *arXiv 2022* [\[paper\]](http://arxiv.org/abs/2211.11275v1) [\[code\]](https://github.com/microsoft/SpeechT5/tree/main/VATLM) ⭐ 1,450 | 🐛 53 | 🌐 Python | 📅 2024-04-24
+  * *arXiv 2022* [\[paper\]](http://arxiv.org/abs/2211.11275v1) [\[code\]](https://github.com/microsoft/SpeechT5/tree/main/VATLM) ⭐ 1,449 | 🐛 53 | 🌐 Python | 📅 2024-04-24
 
 * CTAL: Pre-training Cross-modal Transformer for Audio-and-Language Representations.
   * *EMNLP 2021* [\[paper\]](https://arxiv.org/abs/2107.00249) [\[code\]](https://github.com/Ydkwim/CTAL) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2021-04-20
@@ -314,7 +314,7 @@ approach (similar to GPT).
   * *CVPR 2022* [\[paper\]](https://arxiv.org/abs/2203.00242) [\[code\]](https://github.com/zmykevin/UVLP) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2022-04-15
 
 * Unimo: Towards unified-modal understanding and generation via cross-modal contrastive learning.
-  * *ACL 2021* [\[paper\]](https://aclanthology.org/2021.acl-long.202/) [\[code\]](https://github.com/PaddlePaddle/Research/tree/master/NLP/UNIMO) ⭐ 1,766 | 🐛 137 | 🌐 Python | 📅 2024-08-16
+  * *ACL 2021* [\[paper\]](https://aclanthology.org/2021.acl-long.202/) [\[code\]](https://github.com/PaddlePaddle/Research/tree/master/NLP/UNIMO) ⭐ 1,767 | 🐛 137 | 🌐 Python | 📅 2024-08-16
 
 * Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs.
   * *TACL 2020* [\[paper\]](http://arxiv.org/abs/2011.15124v2) [\[code\]](https://github.com/e-bug/mpre-unmasked) ⭐ 6 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-05-30
@@ -517,7 +517,7 @@ approach (similar to GPT).
   * *TACL 2021* [\[paper\]](http://arxiv.org/abs/2102.00529v1) [\[code\]](https://github.com/deepmind/multimodal_transformers) ⭐ 67 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-01-24
 
 * What makes for good views for contrastive learning?.
-  * *NeurIPS 2020* [\[paper\]](http://arxiv.org/abs/2005.10243v3) [\[code\]](https://github.com/HobbitLong/PyContrast) ⭐ 1,993 | 🐛 14 | 🌐 Python | 📅 2023-10-04
+  * *NeurIPS 2020* [\[paper\]](http://arxiv.org/abs/2005.10243v3) [\[code\]](https://github.com/HobbitLong/PyContrast) ⭐ 1,992 | 🐛 14 | 🌐 Python | 📅 2023-10-04
 
 ## Summary of Common Multimodal Datasets
 
@@ -606,8 +606,8 @@ approach (similar to GPT).
 | **Name**               | **# images** | **# points (M)** | **Domain**   | **Task**                  | **link**                                       | **Github**                                                                                           |
 | ---------------------- | ------------ | ---------------- | ------------ | ------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | **Eigen split KITTTI** | 7481+7518    | 1799             | auto driving | detection                 | [Link](https://www.cvlibs.net/datasets/kitti/) | -                                                                                                    |
-| **nuScenes**           |              |                  | auto driving | 3D detection and tracking | [Link](https://www.nuscenes.org/)              | [Github](https://github.com/nutonomy/nuscenes-devkit) ⭐ 2,805 \| 🐛 33 \| 🌐 Python \| 📅 2026-08-06 |
-| **SemanticKITTI**      | 23201+20351  | 4549             | auto driving | segmentation              | [Link](http://www.semantic-kitti.org/)         | [Github](https://github.com/PRBonn/semantic-kitti-api) ⭐ 899 \| 🐛 3 \| 🌐 Python \| 📅 2025-04-03   |
+| **nuScenes**           |              |                  | auto driving | 3D detection and tracking | [Link](https://www.nuscenes.org/)              | [Github](https://github.com/nutonomy/nuscenes-devkit) ⭐ 2,806 \| 🐛 33 \| 🌐 Python \| 📅 2026-08-06 |
+| **SemanticKITTI**      | 23201+20351  | 4549             | auto driving | segmentation              | [Link](http://www.semantic-kitti.org/)         | [Github](https://github.com/PRBonn/semantic-kitti-api) ⭐ 900 \| 🐛 3 \| 🌐 Python \| 📅 2025-04-03   |
 
 ## Contribute
 
@@ -620,4 +620,4 @@ PR welcome using the following markdown format:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

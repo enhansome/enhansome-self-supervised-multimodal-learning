@@ -397,7 +397,7 @@
                     "open_issues": 1995,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38789,
+                    "stars": 38795,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -793,7 +793,7 @@
                     "open_issues": 53,
                     "owner": "microsoft",
                     "repo": "SpeechT5",
-                    "stars": 1450,
+                    "stars": 1449,
                     "topics": [
                       "speech-pretraining",
                       "speech-recognition",
@@ -1168,7 +1168,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32222,
+                    "stars": 32223,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -1722,7 +1722,7 @@
                     "open_issues": 137,
                     "owner": "PaddlePaddle",
                     "repo": "Research",
-                    "stars": 1766,
+                    "stars": 1767,
                     "topics": [
                       "computer-vision",
                       "data-mining",
@@ -2799,7 +2799,7 @@
                     "open_issues": 14,
                     "owner": "HobbitLong",
                     "repo": "PyContrast",
-                    "stars": 1993,
+                    "stars": 1992,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3876,7 +3876,7 @@
                 "open_issues": 33,
                 "owner": "nutonomy",
                 "repo": "nuscenes-devkit",
-                "stars": 2805,
+                "stars": 2806,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3897,7 +3897,7 @@
                 "open_issues": 3,
                 "owner": "PRBonn",
                 "repo": "semantic-kitti-api",
-                "stars": 899,
+                "stars": 900,
                 "topics": [
                   "dataset",
                   "deep-learning",
@@ -3921,7 +3921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T01:37:34.088Z",
+    "last_updated": "2026-09-20T01:40:30.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
