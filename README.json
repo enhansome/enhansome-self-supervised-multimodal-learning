@@ -397,7 +397,7 @@
                     "open_issues": 1995,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38795,
+                    "stars": 38806,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -793,7 +793,7 @@
                     "open_issues": 53,
                     "owner": "microsoft",
                     "repo": "SpeechT5",
-                    "stars": 1449,
+                    "stars": 1450,
                     "topics": [
                       "speech-pretraining",
                       "speech-recognition",
@@ -886,7 +886,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-15T10:47:48Z",
-                    "open_issues": 686,
+                    "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
                     "stars": 22220,
@@ -1024,7 +1024,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-15T10:47:48Z",
-                    "open_issues": 686,
+                    "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
                     "stars": 22220,
@@ -1168,7 +1168,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32223,
+                    "stars": 32221,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -1586,7 +1586,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-15T10:47:48Z",
-                    "open_issues": 686,
+                    "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
                     "stars": 22220,
@@ -1938,7 +1938,7 @@
                     "open_issues": 9,
                     "owner": "hardmaru",
                     "repo": "WorldModelsExperiments",
-                    "stars": 740,
+                    "stars": 741,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3185,7 +3185,7 @@
                 "open_issues": 273,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34325,
+                "stars": 34331,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -3778,7 +3778,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34455,
+                "stars": 34457,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3873,10 +3873,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-06T02:06:21Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "nutonomy",
                 "repo": "nuscenes-devkit",
-                "stars": 2806,
+                "stars": 2807,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3921,7 +3921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T01:40:30.104Z",
+    "last_updated": "2026-09-21T01:41:43.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
