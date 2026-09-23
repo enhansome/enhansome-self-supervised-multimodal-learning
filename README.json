@@ -397,7 +397,7 @@
                     "open_issues": 1995,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38809,
+                    "stars": 38815,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -889,7 +889,7 @@
                     "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22225,
+                    "stars": 22227,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1027,7 +1027,7 @@
                     "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22225,
+                    "stars": 22227,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1168,7 +1168,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32221,
+                    "stars": 32223,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -1490,7 +1490,7 @@
                     "open_issues": 135,
                     "owner": "salesforce",
                     "repo": "BLIP",
-                    "stars": 5709,
+                    "stars": 5708,
                     "topics": [
                       "image-captioning",
                       "image-text-retrieval",
@@ -1526,7 +1526,7 @@
                     "open_issues": 61,
                     "owner": "dandelin",
                     "repo": "ViLT",
-                    "stars": 1538,
+                    "stars": 1539,
                     "topics": [
                       "vision-and-language"
                     ]
@@ -1556,7 +1556,7 @@
                     "open_issues": 46,
                     "owner": "ChenRocks",
                     "repo": "UNITER",
-                    "stars": 799,
+                    "stars": 800,
                     "topics": [
                       "pre-training",
                       "pytorch",
@@ -1589,7 +1589,7 @@
                     "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22225,
+                    "stars": 22227,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1938,7 +1938,7 @@
                     "open_issues": 9,
                     "owner": "hardmaru",
                     "repo": "WorldModelsExperiments",
-                    "stars": 742,
+                    "stars": 743,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -2029,7 +2029,7 @@
                     "open_issues": 32,
                     "owner": "RyanWangZf",
                     "repo": "MedCLIP",
-                    "stars": 696,
+                    "stars": 697,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -2652,7 +2652,7 @@
                     "open_issues": 3,
                     "owner": "hendrycks",
                     "repo": "ss-ood",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": [
                       "ml-safety",
                       "out-of-distribution-detection",
@@ -3185,7 +3185,7 @@
                 "open_issues": 273,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34343,
+                "stars": 34351,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -3778,7 +3778,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34461,
+                "stars": 34462,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3921,7 +3921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:53:15.087Z",
+    "last_updated": "2026-09-23T01:48:20.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
