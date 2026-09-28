@@ -26,7 +26,7 @@
                     "open_issues": 359,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15206,
+                    "stars": 15208,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -359,7 +359,7 @@
                     "open_issues": 10,
                     "owner": "MohamedAfham",
                     "repo": "CrossPoint",
-                    "stars": 266,
+                    "stars": 267,
                     "topics": [
                       "3d-point-clouds",
                       "cross-modal-learning",
@@ -397,7 +397,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38832,
+                    "stars": 38833,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1168,7 +1168,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32219,
+                    "stars": 32218,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -1938,7 +1938,7 @@
                     "open_issues": 9,
                     "owner": "hardmaru",
                     "repo": "WorldModelsExperiments",
-                    "stars": 744,
+                    "stars": 745,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -2141,7 +2141,7 @@
                     "open_issues": 12,
                     "owner": "marshuang80",
                     "repo": "gloria",
-                    "stars": 249,
+                    "stars": 250,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3185,7 +3185,7 @@
                 "open_issues": 273,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34372,
+                "stars": 34377,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -3731,7 +3731,7 @@
                 "open_issues": 9,
                 "owner": "YapengTian",
                 "repo": "AVE-ECCV18",
-                "stars": 211,
+                "stars": 210,
                 "topics": [
                   "audio-visual-events",
                   "audio-visual-learning",
@@ -3778,7 +3778,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34467,
+                "stars": 34468,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3921,7 +3921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:49:13.411Z",
+    "last_updated": "2026-09-28T01:59:43.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
