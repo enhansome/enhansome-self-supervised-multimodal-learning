@@ -93,7 +93,7 @@ In the context of multimodal learning, instance discrimination often aims to det
   * *ICML 2021* [\[paper\]](http://arxiv.org/abs/2103.00020v1)
 
 * Self-supervised multimodal versatile networks.
-  * *NeurIPS 2020* [\[paper\]](http://arxiv.org/abs/2006.16228v2) [\[code\]](https://github.com/deepmind/deepmind-research/tree/master/mmv) ⭐ 15,209 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17
+  * *NeurIPS 2020* [\[paper\]](http://arxiv.org/abs/2006.16228v2) [\[code\]](https://github.com/deepmind/deepmind-research/tree/master/mmv) ⭐ 15,213 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17
 
 * End-to-end learning of visual representations from uncurated instructional videos.
   * *CVPR 2020* [\[paper\]](http://arxiv.org/abs/1912.06430v4) [\[code\]](https://github.com/antoine77340/MIL-NCE_HowTo100M) ⭐ 221 | 🐛 8 | 🌐 Python | 📅 2022-07-05
@@ -138,7 +138,7 @@ In the context of multimodal learning, instance discrimination often aims to det
   * *ECCV 2018* [\[paper\]](http://arxiv.org/abs/1805.00833v2)
 
 * Vatt: Transformers for multimodal self-supervised learning from raw video, audio and text.
-  * *NeurIPS 2021* [\[paper\]](http://arxiv.org/abs/2104.11178v3) [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,842 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-23
+  * *NeurIPS 2021* [\[paper\]](http://arxiv.org/abs/2104.11178v3) [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,851 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-23
 
 * Learning Video Representations using Contrastive Bidirectional Transformer.
   * *arXiv* [\[paper\]](http://arxiv.org/abs/1906.05743v2)
@@ -225,7 +225,7 @@ approach (similar to GPT).
 </p>
 
 * VATLM: Visual-Audio-Text Pre-Training with Unified Masked Prediction for Speech Representation Learning.
-  * *arXiv 2022* [\[paper\]](http://arxiv.org/abs/2211.11275v1) [\[code\]](https://github.com/microsoft/SpeechT5/tree/main/VATLM) ⭐ 1,450 | 🐛 53 | 🌐 Python | 📅 2024-04-24
+  * *arXiv 2022* [\[paper\]](http://arxiv.org/abs/2211.11275v1) [\[code\]](https://github.com/microsoft/SpeechT5/tree/main/VATLM) ⭐ 1,451 | 🐛 53 | 🌐 Python | 📅 2024-04-24
 
 * CTAL: Pre-training Cross-modal Transformer for Audio-and-Language Representations.
   * *EMNLP 2021* [\[paper\]](https://arxiv.org/abs/2107.00249) [\[code\]](https://github.com/Ydkwim/CTAL) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2021-04-20
@@ -234,7 +234,7 @@ approach (similar to GPT).
   * *ICLR 2023* [\[paper\]](https://arxiv.org/abs/2212.06246) [\[code\]](https://github.com/ahaliassos/raven) ⭐ 82 | 🐛 5 | 🌐 Python | 📅 2025-02-27
 
 * Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks.
-  * *arXiv 2022* [\[paper\]](http://arxiv.org/abs/2208.10442v2) [\[code\]](https://github.com/microsoft/unilm/tree/master/beit3) ⭐ 22,225 | 🐛 687 | 🌐 Python | 📅 2026-09-21
+  * *arXiv 2022* [\[paper\]](http://arxiv.org/abs/2208.10442v2) [\[code\]](https://github.com/microsoft/unilm/tree/master/beit3) ⭐ 22,227 | 🐛 687 | 🌐 Python | 📅 2026-09-21
 
 * SimVLM: Simple Visual Language Model Pretraining with Weak Supervision.
   * *ICLR 2022* [\[paper\]](http://arxiv.org/abs/2108.10904v3) [\[code\]](https://github.com/YulongBonjour/SimVLM) ⭐ 36 | 🐛 6 | 🌐 Python | 📅 2022-11-07
@@ -246,10 +246,10 @@ approach (similar to GPT).
   * *ICLR 2023* [\[paper\]](http://arxiv.org/abs/2206.08916v2) [\[code\]](https://github.com/allenai/unified-io-inference) ⭐ 231 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-12-18
 
 * VL-BEiT: Generative Vision-Language Pretraining.
-  * *arXiv 2022* [\[paper\]](https://arxiv.org/abs/2206.01127) [\[code\]](https://github.com/microsoft/unilm/tree/master/vl-beit) ⭐ 22,225 | 🐛 687 | 🌐 Python | 📅 2026-09-21
+  * *arXiv 2022* [\[paper\]](https://arxiv.org/abs/2206.01127) [\[code\]](https://github.com/microsoft/unilm/tree/master/vl-beit) ⭐ 22,227 | 🐛 687 | 🌐 Python | 📅 2026-09-21
 
 * OPT: Omni-Perception Pre-Trainer for Cross-Modal Understanding and Generation.
-  * *arXiv 2021* [\[paper\]](https://arxiv.org/abs/2107.00249) [\[code\]](https://github.com/mindspore-ai/models/tree/master/research/mm/opt) ⭐ 367 | 🐛 17 | 🌐 Python | 📅 2023-07-17
+  * *arXiv 2021* [\[paper\]](https://arxiv.org/abs/2107.00249) [\[code\]](https://github.com/mindspore-ai/models/tree/master/research/mm/opt) ⭐ 368 | 🐛 17 | 🌐 Python | 📅 2023-07-17
 
 * SelfDoc: Self-Supervised Document Representation Learning.
   * *CVPR 2021* [\[paper\]](https://arxiv.org/abs/2106.03331)
@@ -299,7 +299,7 @@ approach (similar to GPT).
   * *ECCV 2019* [\[paper\]](https://arxiv.org/abs/1909.11740) [\[code\]](https://github.com/ChenRocks/UNITER) ⭐ 800 | 🐛 46 | 🌐 Python | 📅 2021-06-30
 
 * VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts.
-  * *NeurIPS 2022* [\[paper\]](https://arxiv.org/abs/2111.02358) [\[code\]](https://github.com/microsoft/unilm/tree/master/vlmo) ⭐ 22,225 | 🐛 687 | 🌐 Python | 📅 2026-09-21
+  * *NeurIPS 2022* [\[paper\]](https://arxiv.org/abs/2111.02358) [\[code\]](https://github.com/microsoft/unilm/tree/master/vlmo) ⭐ 22,227 | 🐛 687 | 🌐 Python | 📅 2026-09-21
 
 * FLAVA: A Foundational Language And Vision Alignment Model.
   * *CVPR 2021* [\[paper\]](http://arxiv.org/abs/2112.04482v3) [\[code\]](https://github.com/facebookresearch/multimodal/tree/main/examples/flava) ⭐ 1,738 | 🐛 43 | 🌐 Python | 📅 2026-09-28
@@ -351,7 +351,7 @@ approach (similar to GPT).
   * *NeurIPS 2015* [\[paper\]](https://arxiv.org/abs/1507.08750) [\[code\]](https://github.com/junhyukoh/nips2015-action-conditional-video-prediction) ⭐ 114 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2016-02-08
 
 * Recurrent World Models Facilitate Policy Evolution
-  * *NeurIPS 2018* [\[paper\]](https://arxiv.org/abs/1809.01999) [\[code\]](https://github.com/hardmaru/WorldModelsExperiments) ⭐ 745 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2022-09-15
+  * *NeurIPS 2018* [\[paper\]](https://arxiv.org/abs/1809.01999) [\[code\]](https://github.com/hardmaru/WorldModelsExperiments) ⭐ 746 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2022-09-15
 
 * Learning latent dynamics for planning from pixels
   * *ICML 2019* [\[paper\]](https://arxiv.org/abs/1811.04551) [\[code\]](https://github.com/google-research/planet) ⚠️ Archived
@@ -525,7 +525,7 @@ approach (similar to GPT).
 
 | **Name**                   | **# Images**                                                                                                     | **# Text**                     | **Domain**       | **Task**                                          | **Access**                                                                                                                        | **Github**                                                                                                          |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------------- | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| **COCO**                   | >330000                                                                                                          | >1.5M                          | Natural images   | image captioning, image-text retrieval            | [Link](https://cocodataset.org/)                                                                                                  | [Github](https://github.com/tylin/coco-caption) ⭐ 1,224 \| 🐛 41 \| 🌐 Jupyter Notebook \| 📅 2024-05-13            |
+| **COCO**                   | >330000                                                                                                          | >1.5M                          | Natural images   | image captioning, image-text retrieval            | [Link](https://cocodataset.org/)                                                                                                  | [Github](https://github.com/tylin/coco-caption) ⭐ 1,225 \| 🐛 41 \| 🌐 Jupyter Notebook \| 📅 2024-05-13            |
 | **Flickr30k**              | 31,000                                                                                                           | 5 sentences for each image     | Natural images   | image captioning, image-text retrieval            | [Link](https://shannon.cs.illinois.edu/DenotationGraph/)                                                                          | -                                                                                                                   |
 | **FlickrStyle10K**         | 10,000                                                                                                           | 10,000                         | Natural images   | image captioning (stylized), image-text retrieval | [Link](https://zhegan27.github.io/Papers/FlickrStyle_v0.9.zip)                                                                    | [Github](https://github.com/kacky24/stylenet) ⭐ 63 \| 🐛 3 \| 🌐 Python \| 📅 2020-12-13                            |
 | **Flickr8k**               | 8,000                                                                                                            | 5 for each                     | Natural images   | image captioning, image-text retrieval            | [Link](https://www.kaggle.com/datasets/adityajn105/flickr8k)                                                                      | [Github](https://github.com/goodwillyoga/Flickr8k_dataset) ⭐ 29 \| 🐛 0 \| 📅 2019-05-14                            |
@@ -544,9 +544,9 @@ approach (similar to GPT).
 | **SNLI-VE**                | [Details](https://github.com/necla-ml/SNLI-VE#distribution-by-split) ⭐ 123 \| 🐛 5 \| 🌐 Python \| 📅 2022-04-21 |                                | Natural images   | Visual Entailment                                 | [Link](https://github.com/necla-ml/SNLI-VE) ⭐ 123 \| 🐛 5 \| 🌐 Python \| 📅 2022-04-21                                           | [Github](https://github.com/necla-ml/SNLI-VE) ⭐ 123 \| 🐛 5 \| 🌐 Python \| 📅 2022-04-21                           |
 | **NLVR2**                  | 107,292                                                                                                          | 107,292                        | Natural images   | natural language for visual reasoning             | [Link](https://lil.nlp.cornell.edu/nlvr/)                                                                                         | [Github](https://github.com/lil-lab/nlvr) ⭐ 270 \| 🐛 0 \| 🌐 HTML \| 📅 2022-08-18                                 |
 | **NLVR**                   | 92244                                                                                                            | 92244                          | synthetic images | natural language for visual reasoning             | [Link](https://lil.nlp.cornell.edu/nlvr/)                                                                                         | [Github](https://github.com/lil-lab/nlvr) ⭐ 270 \| 🐛 0 \| 🌐 HTML \| 📅 2022-08-18                                 |
-| **rendered SST2**          | \~1k                                                                                                             | \~1k                           | image of text    | optical character recognition (OCR)               | [Link](https://github.com/openai/CLIP/blob/main/data/rendered-sst2.md) ⭐ 34,383 \| 🐛 273 \| 🌐 Jupyter Notebook \| 📅 2026-03-25 | -                                                                                                                   |
-| **OCR-CC**                 | 1.4M                                                                                                             | 1.4M                           | Natural images   | optical character recognition (OCR)               | [Link](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-recognizing-text)                        | [Github](https://github.com/microsoft/TAP) ⭐ 72 \| 🐛 10 \| 🌐 Python \| 📅 2023-05-22                              |
-| **Hateful Memes**          | 10k+                                                                                                             | 10k+                           | memes            | optical character recognition (OCR)               | [Link](https://hatefulmemeschallenge.com/)                                                                                        | [Github](https://github.com/facebookresearch/mmf) ⭐ 5,632 \| 🐛 150 \| 🌐 Python \| 📅 2026-07-07                   |
+| **rendered SST2**          | \~1k                                                                                                             | \~1k                           | image of text    | optical character recognition (OCR)               | [Link](https://github.com/openai/CLIP/blob/main/data/rendered-sst2.md) ⭐ 34,387 \| 🐛 273 \| 🌐 Jupyter Notebook \| 📅 2026-03-25 | -                                                                                                                   |
+| **OCR-CC**                 | 1.4M                                                                                                             | 1.4M                           | Natural images   | optical character recognition (OCR)               | [Link](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-recognizing-text)                        | [Github](https://github.com/microsoft/TAP) ⭐ 72 \| 🐛 11 \| 🌐 Python \| 📅 2023-05-22                              |
+| **Hateful Memes**          | 10k+                                                                                                             | 10k+                           | memes            | optical character recognition (OCR)               | [Link](https://hatefulmemeschallenge.com/)                                                                                        | [Github](https://github.com/facebookresearch/mmf) ⭐ 5,633 \| 🐛 150 \| 🌐 Python \| 📅 2026-07-07                   |
 | **CORD**                   | 1K                                                                                                               | 1k                             | document         | OCR                                               | [Link](https://github.com/clovaai/cord) ⭐ 492 \| 🐛 4 \| 📅 2022-07-20                                                            | [Github](https://github.com/clovaai/cord) ⭐ 492 \| 🐛 4 \| 📅 2022-07-20                                            |
 | **RefCOCO+**               | 19,992                                                                                                           | 141,564                        | Natural images   | Visual Grounding                                  | [Link](https://github.com/lichengunc/refer) ⭐ 577 \| 🐛 20 \| 🌐 Jupyter Notebook \| 📅 2024-08-27                                | [Github](https://github.com/lichengunc/refer) ⭐ 577 \| 🐛 20 \| 🌐 Jupyter Notebook \| 📅 2024-08-27                |
 
@@ -586,10 +586,10 @@ approach (similar to GPT).
 | **MUSIC**      | 714               |                 | music instruments | Audio-visual correspondence                                                                                                               | [Link](https://github.com/roudimit/MUSIC_dataset) ⭐ 140 \| 🐛 5 \| 📅 2022-08-12        | [Github](https://github.com/hangzhaomit/Sound-of-Pixels) ⭐ 394 \| 🐛 11 \| 🌐 Python \| 📅 2022-04-25                       |
 | **AVSpeech**   | 290k              |                 | Person            | Audio-visual correspondence                                                                                                               | [Link](https://looking-to-listen.github.io/avspeech/)                                   | [Github](https://github.com/JusperLee/Looking-to-Listen-at-the-Cocktail-Party) ⭐ 165 \| 🐛 19 \| 🌐 Python \| 📅 2022-12-08 |
 | **URMP**       | 44                |                 | music instruments | Audio-visual correspondence                                                                                                               | [Link](https://labsites.rochester.edu/air/projects/URMP.html)                           | -                                                                                                                           |
-| **AV-Bench**   | v1 \~5k, v2 \~7k  |                 | natural           | Audio-Visual Correspondence (AVC), Audio-Visual Event Localization (AVEL) and video parsing (AVVP), Sound Source Localization (SSL), etc. | [Link](https://opennlplab.github.io/AVSBench/)                                          | [Github](https://github.com/OpenNLPLab/AVSBench) ⭐ 421 \| 🐛 4 \| 🌐 Python \| 📅 2024-11-18                                |
+| **AV-Bench**   | v1 \~5k, v2 \~7k  |                 | natural           | Audio-Visual Correspondence (AVC), Audio-Visual Event Localization (AVEL) and video parsing (AVVP), Sound Source Localization (SSL), etc. | [Link](https://opennlplab.github.io/AVSBench/)                                          | [Github](https://github.com/OpenNLPLab/AVSBench) ⭐ 422 \| 🐛 4 \| 🌐 Python \| 📅 2024-11-18                                |
 | **AVE**        | 4143              |                 | natural           | temporal localization                                                                                                                     | [Link](https://sites.google.com/view/audiovisualresearch)                               | [Github](https://github.com/YapengTian/AVE-ECCV18) ⭐ 210 \| 🐛 9 \| 🌐 Python \| 📅 2021-04-03                              |
 | **360° video** | 1146              |                 | camera            | Spatial Audio generation                                                                                                                  | [Link](https://pedro-morgado.github.io/spatialaudiogen/)                                | [Github](https://github.com/pedro-morgado/spatialaudiogen) ⭐ 116 \| 🐛 4 \| 🌐 Python \| 📅 2023-03-24                      |
-| **openpose**   |                   |                 | person            | Audio-visual correspondence, music-to-video generation                                                                                    | [Link](https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/index.html) | [Github](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,475 \| 🐛 359 \| 🌐 C++ \| 📅 2024-08-03            |
+| **openpose**   |                   |                 | person            | Audio-visual correspondence, music-to-video generation                                                                                    | [Link](https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/index.html) | [Github](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,476 \| 🐛 359 \| 🌐 C++ \| 📅 2024-08-03            |
 | **LRS2**       | -                 | 144481          | person            | speech recognition, lips reading                                                                                                          | [Link](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html)                     | [Github](https://github.com/lsrock1/WLSNet_pytorch)                                                                         |
 | **LRS3**       | 9506              | 151819          | person            | speech recognition, lips reading                                                                                                          | [Link](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs3.html)                     | -                                                                                                                           |
 
@@ -620,4 +620,4 @@ PR welcome using the following markdown format:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
