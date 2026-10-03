@@ -13,7 +13,7 @@
                 {
                   "node_type": "item",
                   "title": "NeurIPS 2020 [paper]",
-                  "description": "[code]",
+                  "description": "google-deepmind/deepmind-research",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -26,7 +26,7 @@
                     "open_issues": 359,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15213,
+                    "stars": 15212,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -41,7 +41,7 @@
                 {
                   "node_type": "item",
                   "title": "CVPR 2020 [paper]",
-                  "description": "[code]",
+                  "description": "antoine77340/MIL-NCE_HowTo100M",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -69,7 +69,7 @@
                 {
                   "node_type": "item",
                   "title": "ECCV 2019 [paper]",
-                  "description": "[code]",
+                  "description": "HobbitLong/CMC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -97,7 +97,7 @@
                 {
                   "node_type": "item",
                   "title": "ICASSP 2022 [paper]",
-                  "description": "[code]",
+                  "description": "AndreyGuzhov/AudioCLIP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -125,7 +125,7 @@
                 {
                   "node_type": "item",
                   "title": "EMNLP 2021 [paper]",
-                  "description": "[code]",
+                  "description": "ZrrSkywalker/PointCLIP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -153,7 +153,7 @@
                 {
                   "node_type": "item",
                   "title": "Neurocomputing 2021 [paper]",
-                  "description": "[code]",
+                  "description": "ArrowLuo/CLIP4Clip",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -197,7 +197,7 @@
                 {
                   "node_type": "item",
                   "title": "CVPR 2021 [paper]",
-                  "description": "[code]",
+                  "description": "ZrrSkywalker/PointCLIP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -225,7 +225,7 @@
                 {
                   "node_type": "item",
                   "title": "arXiv 2022 [paper]",
-                  "description": "[code]",
+                  "description": "google-research/big_vision",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -253,7 +253,7 @@
                 {
                   "node_type": "item",
                   "title": "ICCV 2021 [paper]",
-                  "description": "[code]",
+                  "description": "kywen1119/COOKIE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -281,7 +281,7 @@
                 {
                   "node_type": "item",
                   "title": "ECCV 2022 [paper]",
-                  "description": "[code]",
+                  "description": "facebookresearch/SLIP",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -309,7 +309,7 @@
                 {
                   "node_type": "item",
                   "title": "ICCV 2021 [paper]",
-                  "description": "[code]",
+                  "description": "amazon-science/crossmodal-contrastive-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -346,7 +346,7 @@
                 {
                   "node_type": "item",
                   "title": "CVPR 2022 [paper]",
-                  "description": "[code]",
+                  "description": "MohamedAfham/CrossPoint",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -384,7 +384,7 @@
                 {
                   "node_type": "item",
                   "title": "NeurIPS 2021 [paper]",
-                  "description": "[code]",
+                  "description": "google-research/google-research",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -397,7 +397,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38862,
+                    "stars": 38863,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -416,7 +416,7 @@
                 {
                   "node_type": "item",
                   "title": "NeurIPS 2020 [paper]",
-                  "description": "[code]",
+                  "description": "pedro-morgado/AVSpatialAlignment",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -444,7 +444,7 @@
                 {
                   "node_type": "item",
                   "title": "ECCV 2022 [paper]",
-                  "description": "[code]",
+                  "description": "IFICL/stereocrw",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -472,7 +472,7 @@
                 {
                   "node_type": "item",
                   "title": "CVPR 2019 [paper]",
-                  "description": "[code]",
+                  "description": "vacancy/SceneGraphParser",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -502,7 +502,7 @@
                 {
                   "node_type": "item",
                   "title": "ICCV 2019 [paper]",
-                  "description": "[code]",
+                  "description": "mwray/Joint-Part-of-Speech-Embeddings",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -530,7 +530,7 @@
                 {
                   "node_type": "item",
                   "title": "CVPR 2020 [paper]",
-                  "description": "[code]",
+                  "description": "facebookresearch/AVID-CMA",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -558,7 +558,7 @@
                 {
                   "node_type": "item",
                   "title": "ECCV 2018 [paper]",
-                  "description": "[code]",
+                  "description": "andrewowens/multisensory",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -586,7 +586,7 @@
                 {
                   "node_type": "item",
                   "title": "ECCV 2018 [paper]",
-                  "description": "[code]",
+                  "description": "hangzhaomit/Sound-of-Pixels",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -626,7 +626,7 @@
                 {
                   "node_type": "item",
                   "title": "NeurIPS 2020 [paper]",
-                  "description": "[code]",
+                  "description": "facebookresearch/selavi",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -654,7 +654,7 @@
                 {
                   "node_type": "item",
                   "title": "ICLR 2021 [paper]",
-                  "description": "[code]",
+                  "description": "facebookresearch/av_hubert",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -682,7 +682,7 @@
                 {
                   "node_type": "item",
                   "title": "NeurIPS 2022 [paper]",
-                  "description": "[code]",
+                  "description": "facebookresearch/av_hubert",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -710,7 +710,7 @@
                 {
                   "node_type": "item",
                   "title": "CVPR 2018 [paper]",
-                  "description": "[code]",
+                  "description": "DTaoo/DMC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -738,7 +738,7 @@
                 {
                   "node_type": "item",
                   "title": "ICLR 2020 [paper]",
-                  "description": "[code]",
+                  "description": "yukimasano/self-label",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -780,7 +780,7 @@
                 {
                   "node_type": "item",
                   "title": "arXiv 2022 [paper]",
-                  "description": "[code]",
+                  "description": "microsoft/SpeechT5",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -820,7 +820,7 @@
                 {
                   "node_type": "item",
                   "title": "EMNLP 2021 [paper]",
-                  "description": "[code]",
+                  "description": "Ydkwim/CTAL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -848,7 +848,7 @@
                 {
                   "node_type": "item",
                   "title": "ICLR 2023 [paper]",
-                  "description": "[code]",
+                  "description": "ahaliassos/raven",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -876,7 +876,7 @@
                 {
                   "node_type": "item",
                   "title": "arXiv 2022 [paper]",
-                  "description": "[code]",
+                  "description": "microsoft/unilm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -925,7 +925,7 @@
                 {
                   "node_type": "item",
                   "title": "ICLR 2022 [paper]",
-                  "description": "[code]",
+                  "description": "YulongBonjour/SimVLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -953,7 +953,7 @@
                 {
                   "node_type": "item",
                   "title": "ICCV 2019 [paper]",
-                  "description": "[code]",
+                  "description": "ammesatyajit/VideoBERT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -986,7 +986,7 @@
                 {
                   "node_type": "item",
                   "title": "ICLR 2023 [paper]",
-                  "description": "[code]",
+                  "description": "allenai/unified-io-inference",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1014,7 +1014,7 @@
                 {
                   "node_type": "item",
                   "title": "arXiv 2022 [paper]",
-                  "description": "[code]",
+                  "description": "microsoft/unilm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1063,7 +1063,7 @@
                 {
                   "node_type": "item",
                   "title": "arXiv 2021 [paper]",
-                  "description": "[code]",
+                  "description": "mindspore-ai/models",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1091,7 +1091,7 @@
                 {
                   "node_type": "item",
                   "title": "NeurIPS 2022 [paper]",
-                  "description": "[code]",
+                  "description": "michiyasunaga/dragon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1127,7 +1127,7 @@
                 {
                   "node_type": "item",
                   "title": "ACL 2019 [paper]",
-                  "description": "[code]",
+                  "description": "thunlp/ERNIE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1155,7 +1155,7 @@
                 {
                   "node_type": "item",
                   "title": "ACL 2021 [paper]",
-                  "description": "[code]",
+                  "description": "facebookresearch/fairseq",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1187,7 +1187,7 @@
                 {
                   "node_type": "item",
                   "title": "NAACL 2021 [paper]",
-                  "description": "[code]",
+                  "description": "uclanlp/visualbert",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1222,7 +1222,7 @@
                 {
                   "node_type": "item",
                   "title": "NeurIPS 2021 [paper]",
-                  "description": "[code]",
+                  "description": "salesforce/ALBEF",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1256,7 +1256,7 @@
                 {
                   "node_type": "item",
                   "title": "NeurIPS 2019 [paper]",
-                  "description": "[code]",
+                  "description": "jiangyangby/DM2C",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1284,7 +1284,7 @@
                 {
                   "node_type": "item",
                   "title": "ECCV 2020 [paper]",
-                  "description": "[code]",
+                  "description": "microsoft/Oscar",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1320,7 +1320,7 @@
                 {
                   "node_type": "item",
                   "title": "EMNLP 2020 [paper]",
-                  "description": "[code]",
+                  "description": "linjieli222/HERO",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1354,7 +1354,7 @@
                 {
                   "node_type": "item",
                   "title": "arXiv 2020 [paper]",
-                  "description": "[code]",
+                  "description": "microsoft/UniVL",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1401,7 +1401,7 @@
                 {
                   "node_type": "item",
                   "title": "CVPR 2020 [paper]",
-                  "description": "[code]",
+                  "description": "PaddlePaddle/PaddleVideo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1449,7 +1449,7 @@
                 {
                   "node_type": "item",
                   "title": "CVPR 2022 [paper]",
-                  "description": "[code]",
+                  "description": "rowanz/merlot_reserve",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1477,7 +1477,7 @@
                 {
                   "node_type": "item",
                   "title": "ICML 2022 [paper]",
-                  "description": "[code]",
+                  "description": "salesforce/BLIP",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1513,7 +1513,7 @@
                 {
                   "node_type": "item",
                   "title": "ICML 2021 [paper]",
-                  "description": "[code]",
+                  "description": "dandelin/ViLT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1543,7 +1543,7 @@
                 {
                   "node_type": "item",
                   "title": "ECCV 2019 [paper]",
-                  "description": "[code]",
+                  "description": "ChenRocks/UNITER",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1576,7 +1576,7 @@
                 {
                   "node_type": "item",
                   "title": "NeurIPS 2022 [paper]",
-                  "description": "[code]",
+                  "description": "microsoft/unilm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1625,7 +1625,7 @@
                 {
                   "node_type": "item",
                   "title": "CVPR 2021 [paper]",
-                  "description": "[code]",
+                  "description": "facebookresearch/multimodal",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1653,7 +1653,7 @@
                 {
                   "node_type": "item",
                   "title": "NeurIPS 2019 [paper]",
-                  "description": "[code]",
+                  "description": "facebookresearch/vilbert-multi-task",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1681,7 +1681,7 @@
                 {
                   "node_type": "item",
                   "title": "CVPR 2022 [paper]",
-                  "description": "[code]",
+                  "description": "zmykevin/UVLP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1709,7 +1709,7 @@
                 {
                   "node_type": "item",
                   "title": "ACL 2021 [paper]",
-                  "description": "[code]",
+                  "description": "PaddlePaddle/Research",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1744,7 +1744,7 @@
                 {
                   "node_type": "item",
                   "title": "TACL 2020 [paper]",
-                  "description": "[code]",
+                  "description": "e-bug/mpre-unmasked",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1772,7 +1772,7 @@
                 {
                   "node_type": "item",
                   "title": "ICCV 2021 [paper]",
-                  "description": "[code]",
+                  "description": "brian7685/Multimodal-Clustering-Network",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1800,7 +1800,7 @@
                 {
                   "node_type": "item",
                   "title": "ECCV 2020 [paper]",
-                  "description": "[code]",
+                  "description": "afourast/avobjects",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1828,7 +1828,7 @@
                 {
                   "node_type": "item",
                   "title": "NeurIPS 2020 [paper]",
-                  "description": "[code]",
+                  "description": "simon-ging/coot-videotext",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1856,7 +1856,7 @@
                 {
                   "node_type": "item",
                   "title": "ICCV 2019 [paper]",
-                  "description": "[code]",
+                  "description": "gujiuxiang/unpaired_image_captioning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1897,7 +1897,7 @@
                 {
                   "node_type": "item",
                   "title": "NeurIPS 2015 [paper]",
-                  "description": "[code]",
+                  "description": "junhyukoh/nips2015-action-conditional-video-prediction",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1925,7 +1925,7 @@
                 {
                   "node_type": "item",
                   "title": "NeurIPS 2018 [paper]",
-                  "description": "[code]",
+                  "description": "hardmaru/WorldModelsExperiments",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1953,7 +1953,7 @@
                 {
                   "node_type": "item",
                   "title": "ICML 2019 [paper]",
-                  "description": "[code]",
+                  "description": "google-research/planet",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1981,7 +1981,7 @@
                 {
                   "node_type": "item",
                   "title": "CoRL 2021 [paper]",
-                  "description": "[code]",
+                  "description": "wilson1yan/contrastive-forward-model",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2016,7 +2016,7 @@
                 {
                   "node_type": "item",
                   "title": "EMNLP 2022 [paper]",
-                  "description": "[code]",
+                  "description": "RyanWangZf/MedCLIP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2044,7 +2044,7 @@
                 {
                   "node_type": "item",
                   "title": "CVPR 2022 [paper]",
-                  "description": "[code]",
+                  "description": "HealthML/ContIG",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2072,7 +2072,7 @@
                 {
                   "node_type": "item",
                   "title": "NeurIPS 2020 [paper]",
-                  "description": "[code]",
+                  "description": "MIDA-group/CoMIR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2100,7 +2100,7 @@
                 {
                   "node_type": "item",
                   "title": "arXiv 2020 [paper]",
-                  "description": "[code]",
+                  "description": "edreisMD/ConVIRT-pytorch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2128,7 +2128,7 @@
                 {
                   "node_type": "item",
                   "title": "ICCV 2021 [paper]",
-                  "description": "[code]",
+                  "description": "marshuang80/gloria",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2156,7 +2156,7 @@
                 {
                   "node_type": "item",
                   "title": "Nature Biomedical Engineering 2022 [paper]",
-                  "description": "[code]",
+                  "description": "rajpurkarlab/CheXzero",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2184,7 +2184,7 @@
                 {
                   "node_type": "item",
                   "title": "Nature Machine Intelligence 2022 [paper]",
-                  "description": "[code]",
+                  "description": "funnyzhou/REFERS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2219,7 +2219,7 @@
                 {
                   "node_type": "item",
                   "title": "ISPRS Journal of Photogrammetry and Remote Sensing 2021 [paper]",
-                  "description": "[code]",
+                  "description": "danfenghong/ISPRS_S2FL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2247,7 +2247,7 @@
                 {
                   "node_type": "item",
                   "title": "IEEE Transactions on Geoscience and Remote Sensing 2021 [paper]",
-                  "description": "[code]",
+                  "description": "Yusin2Chen/self-supervised_change_detetction",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2275,7 +2275,7 @@
                 {
                   "node_type": "item",
                   "title": "Int. J. Appl. Earth Obs. Geoinformation 2021 [paper]",
-                  "description": "[code]",
+                  "description": "khdlr/SoundingEarth",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2310,7 +2310,7 @@
                 {
                   "node_type": "item",
                   "title": "ICLR 2018 [paper]",
-                  "description": "[code]",
+                  "description": "sobamchan/unsupervised-machine-translation-using-monolingual-corpora-only-pytorch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2338,7 +2338,7 @@
                 {
                   "node_type": "item",
                   "title": "CVPR 2020 [paper]",
-                  "description": "[code]",
+                  "description": "gsig/visual-grounding",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2373,7 +2373,7 @@
                 {
                   "node_type": "item",
                   "title": "CVPR 2022 [paper]",
-                  "description": "[code]",
+                  "description": "valeoai/SLidR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2401,7 +2401,7 @@
                 {
                   "node_type": "item",
                   "title": "CoRL 2021 [paper]",
-                  "description": "[code]",
+                  "description": "AutoAILab/FusionDepth",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2444,7 +2444,7 @@
                 {
                   "node_type": "item",
                   "title": "T-ITS 2022 [paper]",
-                  "description": "[code]",
+                  "description": "guangmingw/DOPlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2492,7 +2492,7 @@
                 {
                   "node_type": "item",
                   "title": "ECCV 2022 [paper]",
-                  "description": "[code]",
+                  "description": "zerovl/ZeroVL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2525,7 +2525,7 @@
                 {
                   "node_type": "item",
                   "title": "NeurIPS 2022 [paper]",
-                  "description": "[code]",
+                  "description": "naotoo1/Beyond-Neural-Scaling",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2561,7 +2561,7 @@
                 {
                   "node_type": "item",
                   "title": "ICLR 2022 [paper]",
-                  "description": "[code]",
+                  "description": "Sense-GVT/DeCLIP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2604,7 +2604,7 @@
                 {
                   "node_type": "item",
                   "title": "ICLR 2023 [paper]",
-                  "description": "[code]",
+                  "description": "mertyg/vision-language-models-are-bows",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2639,7 +2639,7 @@
                 {
                   "node_type": "item",
                   "title": "NeurIPS 2019 [paper]",
-                  "description": "[code]",
+                  "description": "hendrycks/ss-ood",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2674,7 +2674,7 @@
                 {
                   "node_type": "item",
                   "title": "2022 IEEE Symposium on Security and Privacy (SP) 2022 [paper]",
-                  "description": "[code]",
+                  "description": "jinyuan-jia/BadEncoder",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2702,7 +2702,7 @@
                 {
                   "node_type": "item",
                   "title": "arXiv 2022 [paper]",
-                  "description": "[code]",
+                  "description": "amazon-science/multimodal-robustness",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2730,7 +2730,7 @@
                 {
                   "node_type": "item",
                   "title": "NeurIPS 2022 [paper]",
-                  "description": "[code]",
+                  "description": "Weixin-Liang/Modality-Gap",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2758,7 +2758,7 @@
                 {
                   "node_type": "item",
                   "title": "TACL 2021 [paper]",
-                  "description": "[code]",
+                  "description": "google-deepmind/multimodal_transformers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2786,7 +2786,7 @@
                 {
                   "node_type": "item",
                   "title": "NeurIPS 2020 [paper]",
-                  "description": "[code]",
+                  "description": "HobbitLong/PyContrast",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3036,7 +3036,7 @@
             {
               "node_type": "item",
               "title": "Link",
-              "description": null,
+              "description": "WadeYin9712/GD-VCR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3057,7 +3057,7 @@
             {
               "node_type": "item",
               "title": "WadeYin9712/GD-VCR",
-              "description": null,
+              "description": "WadeYin9712/GD-VCR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3078,7 +3078,7 @@
             {
               "node_type": "item",
               "title": "Details",
-              "description": null,
+              "description": "necla-ml/SNLI-VE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3099,7 +3099,7 @@
             {
               "node_type": "item",
               "title": "Link",
-              "description": null,
+              "description": "necla-ml/SNLI-VE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3619,7 +3619,7 @@
             {
               "node_type": "item",
               "title": "Link",
-              "description": null,
+              "description": "roudimit/MUSIC_dataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3640,7 +3640,7 @@
             {
               "node_type": "item",
               "title": "hangzhaomit/Sound-of-Pixels",
-              "description": null,
+              "description": "hangzhaomit/Sound-of-Pixels",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3921,7 +3921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:19:39.548Z",
+    "last_updated": "2026-10-03T05:09:30.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",

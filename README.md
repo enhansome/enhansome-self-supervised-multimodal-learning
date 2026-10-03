@@ -93,7 +93,7 @@ In the context of multimodal learning, instance discrimination often aims to det
   * *ICML 2021* [\[paper\]](http://arxiv.org/abs/2103.00020v1)
 
 * Self-supervised multimodal versatile networks.
-  * *NeurIPS 2020* [\[paper\]](http://arxiv.org/abs/2006.16228v2) [\[code\]](https://github.com/deepmind/deepmind-research/tree/master/mmv) ⭐ 15,213 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17
+  * *NeurIPS 2020* [\[paper\]](http://arxiv.org/abs/2006.16228v2) [\[code\]](https://github.com/deepmind/deepmind-research/tree/master/mmv) ⭐ 15,212 | 🐛 359 | 🌐 Jupyter Notebook | 📅 2026-06-17
 
 * End-to-end learning of visual representations from uncurated instructional videos.
   * *CVPR 2020* [\[paper\]](http://arxiv.org/abs/1912.06430v4) [\[code\]](https://github.com/antoine77340/MIL-NCE_HowTo100M) ⭐ 221 | 🐛 8 | 🌐 Python | 📅 2022-07-05
@@ -138,7 +138,7 @@ In the context of multimodal learning, instance discrimination often aims to det
   * *ECCV 2018* [\[paper\]](http://arxiv.org/abs/1805.00833v2)
 
 * Vatt: Transformers for multimodal self-supervised learning from raw video, audio and text.
-  * *NeurIPS 2021* [\[paper\]](http://arxiv.org/abs/2104.11178v3) [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,862 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-30
+  * *NeurIPS 2021* [\[paper\]](http://arxiv.org/abs/2104.11178v3) [\[code\]](https://github.com/google-research/google-research/tree/master/vatt) ⭐ 38,863 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-30
 
 * Learning Video Representations using Contrastive Bidirectional Transformer.
   * *arXiv* [\[paper\]](http://arxiv.org/abs/1906.05743v2)
