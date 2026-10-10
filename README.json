@@ -26,7 +26,7 @@
                     "open_issues": 359,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15221,
+                    "stars": 15227,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -82,7 +82,7 @@
                     "open_issues": 25,
                     "owner": "HobbitLong",
                     "repo": "CMC",
-                    "stars": 1339,
+                    "stars": 1338,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -238,7 +238,7 @@
                     "open_issues": 57,
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3544,
+                    "stars": 3545,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -393,11 +393,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-08T17:38:14Z",
-                    "open_issues": 1997,
+                    "last_commit": "2026-10-09T17:22:43Z",
+                    "open_issues": 1998,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38884,
+                    "stars": 38887,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1168,7 +1168,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32211,
+                    "stars": 32207,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -1490,7 +1490,7 @@
                     "open_issues": 135,
                     "owner": "salesforce",
                     "repo": "BLIP",
-                    "stars": 5707,
+                    "stars": 5706,
                     "topics": [
                       "image-captioning",
                       "image-text-retrieval",
@@ -1526,7 +1526,7 @@
                     "open_issues": 61,
                     "owner": "dandelin",
                     "repo": "ViLT",
-                    "stars": 1538,
+                    "stars": 1537,
                     "topics": [
                       "vision-and-language"
                     ]
@@ -1638,7 +1638,7 @@
                     "open_issues": 43,
                     "owner": "facebookresearch",
                     "repo": "multimodal",
-                    "stars": 1741,
+                    "stars": 1740,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -1722,7 +1722,7 @@
                     "open_issues": 137,
                     "owner": "PaddlePaddle",
                     "repo": "Research",
-                    "stars": 1767,
+                    "stars": 1768,
                     "topics": [
                       "computer-vision",
                       "data-mining",
@@ -3182,10 +3182,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-03-25T18:46:40Z",
-                "open_issues": 274,
+                "open_issues": 273,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34428,
+                "stars": 34432,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -3679,7 +3679,7 @@
                 "open_issues": 19,
                 "owner": "JusperLee",
                 "repo": "Looking-to-Listen-at-the-Cocktail-Party",
-                "stars": 165,
+                "stars": 164,
                 "topics": [
                   "audio",
                   "cocktail-party",
@@ -3778,7 +3778,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34487,
+                "stars": 34493,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3921,7 +3921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T03:04:34.842Z",
+    "last_updated": "2026-10-10T02:46:41.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
