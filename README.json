@@ -26,7 +26,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15240,
+                    "stars": 15242,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -397,7 +397,7 @@
                     "open_issues": 2008,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38964,
+                    "stars": 38989,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -889,7 +889,7 @@
                     "open_issues": 689,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22237,
+                    "stars": 22238,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1027,7 +1027,7 @@
                     "open_issues": 689,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22237,
+                    "stars": 22238,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1168,7 +1168,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32212,
+                    "stars": 32213,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -1589,7 +1589,7 @@
                     "open_issues": 689,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22237,
+                    "stars": 22238,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1722,7 +1722,7 @@
                     "open_issues": 137,
                     "owner": "PaddlePaddle",
                     "repo": "Research",
-                    "stars": 1769,
+                    "stars": 1770,
                     "topics": [
                       "computer-vision",
                       "data-mining",
@@ -3185,7 +3185,7 @@
                 "open_issues": 274,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34488,
+                "stars": 34496,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -3336,7 +3336,7 @@
                 "open_issues": 37,
                 "owner": "openimages",
                 "repo": "dataset",
-                "stars": 4383,
+                "stars": 4384,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3778,7 +3778,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34508,
+                "stars": 34515,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3873,7 +3873,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-06T02:06:21Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "nutonomy",
                 "repo": "nuscenes-devkit",
                 "stars": 2814,
@@ -3921,7 +3921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T02:06:12.754Z",
+    "last_updated": "2026-10-21T02:02:55.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
