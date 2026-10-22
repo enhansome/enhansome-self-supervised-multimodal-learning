@@ -26,7 +26,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15242,
+                    "stars": 15243,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -393,11 +393,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-15T02:18:00Z",
-                    "open_issues": 2008,
+                    "last_commit": "2026-10-21T07:52:25Z",
+                    "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38989,
+                    "stars": 39000,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1104,7 +1104,7 @@
                     "open_issues": 1,
                     "owner": "michiyasunaga",
                     "repo": "dragon",
-                    "stars": 336,
+                    "stars": 337,
                     "topics": [
                       "graph-neural-networks",
                       "knowledge-graph",
@@ -1168,7 +1168,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32213,
+                    "stars": 32212,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -1490,7 +1490,7 @@
                     "open_issues": 135,
                     "owner": "salesforce",
                     "repo": "BLIP",
-                    "stars": 5704,
+                    "stars": 5705,
                     "topics": [
                       "image-captioning",
                       "image-text-retrieval",
@@ -2652,7 +2652,7 @@
                     "open_issues": 3,
                     "owner": "hendrycks",
                     "repo": "ss-ood",
-                    "stars": 270,
+                    "stars": 269,
                     "topics": [
                       "ml-safety",
                       "out-of-distribution-detection",
@@ -3185,7 +3185,7 @@
                 "open_issues": 274,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34496,
+                "stars": 34503,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -3280,7 +3280,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2024-08-27T08:53:26Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "lichengunc",
                 "repo": "refer",
                 "stars": 577,
@@ -3336,7 +3336,7 @@
                 "open_issues": 37,
                 "owner": "openimages",
                 "repo": "dataset",
-                "stars": 4384,
+                "stars": 4385,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3778,7 +3778,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34515,
+                "stars": 34516,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3848,7 +3848,7 @@
                 "open_issues": 13,
                 "owner": "hkust-vgd",
                 "repo": "scanobjectnn",
-                "stars": 255,
+                "stars": 254,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3921,7 +3921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T02:02:55.144Z",
+    "last_updated": "2026-10-22T01:52:10.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
