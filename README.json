@@ -26,7 +26,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15248,
+                    "stars": 15249,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -238,7 +238,7 @@
                     "open_issues": 59,
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3554,
+                    "stars": 3555,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -359,7 +359,7 @@
                     "open_issues": 10,
                     "owner": "MohamedAfham",
                     "repo": "CrossPoint",
-                    "stars": 267,
+                    "stars": 266,
                     "topics": [
                       "3d-point-clouds",
                       "cross-modal-learning",
@@ -393,11 +393,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-26T00:43:54Z",
+                    "last_commit": "2026-10-26T20:10:08Z",
                     "open_issues": 2024,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39025,
+                    "stars": 39037,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -783,7 +783,7 @@
                   "description": "microsoft/SpeechT5",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "description": "Unified-Modal Speech-Text Pre-Training for Spoken Language Processing",
                     "homepage": null,
                     "id": 456768714,
@@ -889,7 +889,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22235,
+                    "stars": 22237,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1027,7 +1027,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22235,
+                    "stars": 22237,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1235,7 +1235,7 @@
                     "open_issues": 66,
                     "owner": "salesforce",
                     "repo": "ALBEF",
-                    "stars": 1753,
+                    "stars": 1752,
                     "topics": [
                       "contrastive-learning",
                       "image-text",
@@ -1490,7 +1490,7 @@
                     "open_issues": 135,
                     "owner": "salesforce",
                     "repo": "BLIP",
-                    "stars": 5706,
+                    "stars": 5704,
                     "topics": [
                       "image-captioning",
                       "image-text-retrieval",
@@ -1589,7 +1589,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22235,
+                    "stars": 22237,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1634,7 +1634,7 @@
                     "id": 452825945,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-19T15:08:00Z",
+                    "last_commit": "2026-10-26T15:09:32Z",
                     "open_issues": 43,
                     "owner": "facebookresearch",
                     "repo": "multimodal",
@@ -2085,7 +2085,7 @@
                     "open_issues": 5,
                     "owner": "MIDA-group",
                     "repo": "CoMIR",
-                    "stars": 87,
+                    "stars": 88,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3185,7 +3185,7 @@
                 "open_issues": 274,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34523,
+                "stars": 34530,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -3778,7 +3778,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34521,
+                "stars": 34524,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3921,7 +3921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T01:44:21.438Z",
+    "last_updated": "2026-10-27T02:26:00.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
