@@ -238,7 +238,7 @@
                     "open_issues": 60,
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3568,
+                    "stars": 3570,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -393,11 +393,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-30T23:22:33Z",
-                    "open_issues": 2009,
+                    "last_commit": "2026-11-04T16:49:43Z",
+                    "open_issues": 2010,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39103,
+                    "stars": 39113,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -889,7 +889,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22237,
+                    "stars": 22240,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1027,7 +1027,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22237,
+                    "stars": 22240,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1168,7 +1168,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32210,
+                    "stars": 32211,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -1414,7 +1414,7 @@
                     "open_issues": 190,
                     "owner": "PaddlePaddle",
                     "repo": "PaddleVideo",
-                    "stars": 1703,
+                    "stars": 1704,
                     "topics": [
                       "actbert",
                       "action-detection",
@@ -1490,7 +1490,7 @@
                     "open_issues": 135,
                     "owner": "salesforce",
                     "repo": "BLIP",
-                    "stars": 5703,
+                    "stars": 5702,
                     "topics": [
                       "image-captioning",
                       "image-text-retrieval",
@@ -1526,7 +1526,7 @@
                     "open_issues": 61,
                     "owner": "dandelin",
                     "repo": "ViLT",
-                    "stars": 1538,
+                    "stars": 1537,
                     "topics": [
                       "vision-and-language"
                     ]
@@ -1589,7 +1589,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22237,
+                    "stars": 22240,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1638,7 +1638,7 @@
                     "open_issues": 43,
                     "owner": "facebookresearch",
                     "repo": "multimodal",
-                    "stars": 1743,
+                    "stars": 1744,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3185,7 +3185,7 @@
                 "open_issues": 274,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34565,
+                "stars": 34569,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -3230,7 +3230,7 @@
                 "open_issues": 150,
                 "owner": "facebookresearch",
                 "repo": "mmf",
-                "stars": 5636,
+                "stars": 5635,
                 "topics": [
                   "captioning",
                   "deep-learning",
@@ -3283,7 +3283,7 @@
                 "open_issues": 21,
                 "owner": "lichengunc",
                 "repo": "refer",
-                "stars": 577,
+                "stars": 578,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3848,7 +3848,7 @@
                 "open_issues": 13,
                 "owner": "hkust-vgd",
                 "repo": "scanobjectnn",
-                "stars": 254,
+                "stars": 255,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3876,7 +3876,7 @@
                 "open_issues": 35,
                 "owner": "nutonomy",
                 "repo": "nuscenes-devkit",
-                "stars": 2817,
+                "stars": 2818,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3921,7 +3921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T03:18:52.171Z",
+    "last_updated": "2026-11-05T03:44:20.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
