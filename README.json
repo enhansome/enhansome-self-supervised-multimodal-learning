@@ -26,7 +26,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15268,
+                    "stars": 15269,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -238,7 +238,7 @@
                     "open_issues": 60,
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3572,
+                    "stars": 3573,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -397,7 +397,7 @@
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39149,
+                    "stars": 39152,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -485,7 +485,7 @@
                     "open_issues": 8,
                     "owner": "vacancy",
                     "repo": "SceneGraphParser",
-                    "stars": 592,
+                    "stars": 593,
                     "topics": [
                       "nlp"
                     ]
@@ -1072,7 +1072,7 @@
                     "id": 417393380,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-29T07:05:58Z",
+                    "last_commit": "2026-11-10T11:48:29Z",
                     "open_issues": 17,
                     "owner": "mindspore-ai",
                     "repo": "models",
@@ -1168,7 +1168,7 @@
                     "open_issues": 1352,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32203,
+                    "stars": 32204,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -3213,7 +3213,7 @@
                 "open_issues": 273,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34585,
+                "stars": 34594,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -3335,7 +3335,7 @@
                 "id": 235867589,
                 "language": "HTML",
                 "license": "Apache-2.0",
-                "last_commit": "2021-09-09T20:35:51Z",
+                "last_commit": "2026-11-10T16:06:40Z",
                 "open_issues": 0,
                 "owner": "google",
                 "repo": "localized-narratives",
@@ -3806,7 +3806,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34574,
+                "stars": 34575,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3949,7 +3949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:47:16.989Z",
+    "last_updated": "2026-11-11T03:02:51.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
