@@ -26,7 +26,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15270,
+                    "stars": 15272,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -110,7 +110,7 @@
                     "open_issues": 3,
                     "owner": "AndreyGuzhov",
                     "repo": "AudioCLIP",
-                    "stars": 873,
+                    "stars": 872,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -394,10 +394,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-11T11:58:31Z",
-                    "open_issues": 2009,
+                    "open_issues": 2012,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39159,
+                    "stars": 39163,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -793,7 +793,7 @@
                     "open_issues": 53,
                     "owner": "microsoft",
                     "repo": "SpeechT5",
-                    "stars": 1450,
+                    "stars": 1449,
                     "topics": [
                       "speech-pretraining",
                       "speech-recognition",
@@ -1165,10 +1165,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-09-30T11:16:06Z",
-                    "open_issues": 1352,
+                    "open_issues": 1351,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32207,
+                    "stars": 32208,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -1694,7 +1694,7 @@
                     "open_issues": 67,
                     "owner": "facebookresearch",
                     "repo": "vilbert-multi-task",
-                    "stars": 822,
+                    "stars": 821,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -1966,7 +1966,7 @@
                     "open_issues": 9,
                     "owner": "hardmaru",
                     "repo": "WorldModelsExperiments",
-                    "stars": 748,
+                    "stars": 749,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -2057,7 +2057,7 @@
                     "open_issues": 32,
                     "owner": "RyanWangZf",
                     "repo": "MedCLIP",
-                    "stars": 696,
+                    "stars": 697,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -2197,7 +2197,7 @@
                     "open_issues": 7,
                     "owner": "rajpurkarlab",
                     "repo": "CheXzero",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3213,7 +3213,7 @@
                 "open_issues": 273,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34598,
+                "stars": 34602,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -3364,7 +3364,7 @@
                 "open_issues": 37,
                 "owner": "openimages",
                 "repo": "dataset",
-                "stars": 4386,
+                "stars": 4385,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3733,7 +3733,7 @@
                 "open_issues": 4,
                 "owner": "OpenNLPLab",
                 "repo": "AVSBench",
-                "stars": 423,
+                "stars": 424,
                 "topics": [
                   "audio-visual-learning",
                   "audio-visual-segmentation",
@@ -3806,7 +3806,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34575,
+                "stars": 34578,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3949,7 +3949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T04:17:33.079Z",
+    "last_updated": "2026-11-13T03:36:05.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
