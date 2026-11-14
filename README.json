@@ -26,7 +26,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15272,
+                    "stars": 15273,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -238,7 +238,7 @@
                     "open_issues": 60,
                     "owner": "google-research",
                     "repo": "big_vision",
-                    "stars": 3572,
+                    "stars": 3573,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -393,11 +393,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T11:58:31Z",
-                    "open_issues": 2012,
+                    "last_commit": "2026-11-13T17:37:12Z",
+                    "open_issues": 2013,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39163,
+                    "stars": 39169,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1168,7 +1168,7 @@
                     "open_issues": 1351,
                     "owner": "facebookresearch",
                     "repo": "fairseq",
-                    "stars": 32208,
+                    "stars": 32206,
                     "topics": [
                       "artificial-intelligence",
                       "python",
@@ -1225,7 +1225,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-10-02T07:35:21Z",
-                    "open_issues": 5,
+                    "open_issues": 6,
                     "owner": "MCG-NJU",
                     "repo": "VideoChat3",
                     "stars": 362,
@@ -1518,7 +1518,7 @@
                     "open_issues": 135,
                     "owner": "salesforce",
                     "repo": "BLIP",
-                    "stars": 5702,
+                    "stars": 5701,
                     "topics": [
                       "image-captioning",
                       "image-text-retrieval",
@@ -1554,7 +1554,7 @@
                     "open_issues": 61,
                     "owner": "dandelin",
                     "repo": "ViLT",
-                    "stars": 1537,
+                    "stars": 1538,
                     "topics": [
                       "vision-and-language"
                     ]
@@ -1666,7 +1666,7 @@
                     "open_issues": 43,
                     "owner": "facebookresearch",
                     "repo": "multimodal",
-                    "stars": 1744,
+                    "stars": 1746,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3210,10 +3210,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-03-25T18:46:40Z",
-                "open_issues": 273,
+                "open_issues": 274,
                 "owner": "openai",
                 "repo": "CLIP",
-                "stars": 34602,
+                "stars": 34609,
                 "topics": [
                   "deep-learning",
                   "machine-learning"
@@ -3364,7 +3364,7 @@
                 "open_issues": 37,
                 "owner": "openimages",
                 "repo": "dataset",
-                "stars": 4385,
+                "stars": 4386,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3904,7 +3904,7 @@
                 "open_issues": 35,
                 "owner": "nutonomy",
                 "repo": "nuscenes-devkit",
-                "stars": 2819,
+                "stars": 2821,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:01.935Z"
@@ -3949,7 +3949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T03:36:05.243Z",
+    "last_updated": "2026-11-14T03:35:04.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "[T-PAMI] A curated list of self-supervised multimodal learning resources.",
